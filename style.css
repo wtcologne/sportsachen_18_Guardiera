@@ -251,3 +251,88 @@ h2 em{color:var(--blue)}
  .player-options a{display:none}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* ===== Redaktionelle Vertiefung: Literatur, Praxis und Kopiervorlagen ===== */
+.resource-intro{display:flex;align-items:center;gap:18px;padding:17px 21px;margin:0 0 20px;background:#e7f0f0;border:1px solid #cfdfdf;border-radius:12px;color:#1a4555}
+.resource-intro-label{font-size:10px;font-weight:900;letter-spacing:.12em;color:#276b71;white-space:nowrap}
+.resource-intro-copy{display:flex;flex-direction:column;gap:4px;flex:1;min-width:0}
+.resource-intro-copy strong{font-size:14px}
+.resource-intro-copy span{font-size:12px;line-height:1.55;color:#466777}
+.resource-intro>a{font-size:12px;font-weight:850;color:#185c76;white-space:nowrap;border-bottom:1px solid #86aab0;padding-bottom:3px}
+.sidebar-material-link{font-weight:800;color:#c1ecc8!important;text-decoration:none;line-height:1.6;display:block}
+.sidebar-material-link:hover{text-decoration:underline}
+.annotation-box{margin:21px 0 0;border:1px solid #dce7e6;border-radius:11px;background:#f8fbfa;overflow:hidden;color:#264558}
+.annotation-box summary{list-style:none;display:flex;gap:11px;align-items:center;cursor:pointer;padding:13px 15px;min-height:61px;user-select:none}
+.annotation-box summary::-webkit-details-marker{display:none}
+.annotation-box summary:hover{background:#eef5f3}
+.annotation-box summary:focus-visible{outline:3px solid #5c93ba;outline-offset:-3px}
+.annotation-symbol{background:#e0f0e7;flex-shrink:0;display:grid;place-items:center;width:27px;height:27px;border-radius:8px;color:#2b7057;font-weight:900;font-size:17px}
+.annotation-summary-content{display:flex;flex-direction:column;gap:6px;flex:1;min-width:0}
+.annotation-summary-content>strong{font-size:13px;line-height:1.36;letter-spacing:0}
+.annotation-kinds{display:flex;gap:5px;flex-wrap:wrap}
+.annotation-tag{display:inline-block;font-size:9px;letter-spacing:.045em;font-weight:900;padding:4px 7px;border-radius:5px}
+.annotation-tag.lit{color:#335c93;background:#e7effc}
+.annotation-tag.mat{color:#7b4d1a;background:#fff1dc}
+.annotation-tag.praxis{color:#28614e;background:#e2f3e9}
+.annotation-chevron{color:#76929d;font-size:22px;transition:transform .14s;align-self:center}
+.annotation-box[open] .annotation-chevron{transform:rotate(180deg)}
+.annotation-box[open]{border-color:#a9cbd0;background:#fff}
+.annotation-box[open] .annotation-symbol{background:#1f6570;color:#fff}
+.annotation-body{border-top:1px solid #dce7e6;padding:17px 18px 15px}
+.annotation-lead{font-size:13px!important;line-height:1.65!important;color:#3c5969!important;margin:0 0 13px!important}
+.reference-item{border-top:1px solid #e8eeee;padding:12px 0}
+.ref-type{display:block;font-size:10px;font-weight:750;color:#728798;margin-bottom:5px}
+.reference-item>a{display:block;text-decoration:underline;text-decoration-color:#b8c9db;text-underline-offset:3px;color:#245d8d;font-size:13px;font-weight:800;line-height:1.45}
+.reference-item>a:hover{color:#153851}
+.reference-item p{margin:6px 0 0!important;color:#637b88!important;font-size:12px!important;line-height:1.65!important}
+.attachment-item{display:flex;align-items:center;justify-content:space-between;gap:15px;background:#f2f6f6;border:1px solid #e0e8e8;border-radius:9px;padding:12px 13px;margin:9px 0}
+.attachment-item>div:first-child{display:flex;flex-direction:column;gap:4px;min-width:0}
+.attachment-item strong{font-size:12px}.attachment-item small{font-size:11px;color:#637c87}
+.attachment-links{display:flex;gap:7px;flex-shrink:0}
+.attachment-links a{display:inline-flex;align-items:center;justify-content:center;min-height:34px;padding:7px 10px;border-radius:7px;border:1px solid #bed1d4;background:#fff;font-size:11px;font-weight:900;color:#19526e;white-space:nowrap}
+.attachment-links a:hover{background:#e1edf1}
+.note-tip{padding:13px 15px;background:#edf5f0;border-left:3px solid #6da18a;margin:13px 0 2px;border-radius:0 7px 7px 0}
+.note-tip strong{font-size:11px;color:#295744}.note-tip p{margin:5px 0 0!important;font-size:12px!important;line-height:1.65!important;color:#3d6658!important}
+.annotation-credit{color:#81939a!important;font-size:10px!important;margin:14px 0 0!important;line-height:1.5!important}
+.materials-section{background:#eef4f1;padding:67px 0 75px;scroll-margin-top:30px}
+.materials-heading{max-width:710px;margin-bottom:28px}
+.materials-heading h2{font-family:Georgia,serif;font-size:clamp(29px,3.4vw,41px);letter-spacing:-.035em;line-height:1.1;margin:12px 0}
+.materials-heading h2 em{color:#48777a;font-weight:400}
+.materials-heading p{margin:0;font-size:14px;line-height:1.7;color:#557079}
+.materials-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.material-card{background:#fff;border:1px solid #dae5e3;border-radius:13px;padding:22px 21px 19px;display:flex;flex-direction:column;min-height:201px}
+.material-kicker{font-size:10px;letter-spacing:.1em;font-weight:900;color:#438477}
+.material-card h3{font-size:17px;line-height:1.33;margin:10px 0 6px;letter-spacing:-.02em;color:#1b4058}
+.material-card p{color:#67808c;font-size:12px;line-height:1.55;margin:0 0 20px}
+.material-actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:auto}
+.material-actions a{display:inline-block;font-size:11px;font-weight:850;padding:8px 10px;border:1px solid #d0dfe1;border-radius:6px;color:#226384;background:#f6f9f9}
+.material-actions a:hover{background:#e6eff4}
+.material-actions a.to-passage{background:transparent;border-color:transparent;color:#446978}
+.materials-disclaimer{font-size:12px;line-height:1.65;color:#647d84;max-width:850px;margin:20px 0 0}
+.annotation-box{scroll-margin-top:105px}
+@media(max-width:1050px){
+ .resource-intro{flex-wrap:wrap;gap:7px 14px}
+ .resource-intro-label{width:100%}
+ .resource-intro>a{margin-left:auto}
+ .materials-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:790px){
+ .resource-intro{margin-bottom:15px;padding:13px 14px;gap:8px}
+ .resource-intro-label{font-size:9px}
+ .resource-intro-copy strong{font-size:13px}
+ .resource-intro-copy span{font-size:11px}
+ .resource-intro>a{margin-left:0;font-size:11px}
+ .annotation-box{margin:16px 0 0}
+ .annotation-box summary{padding:12px 11px}
+ .annotation-body{padding:13px 12px}
+ .annotation-summary-content>strong{font-size:12px}
+ .attachment-item{flex-direction:column;align-items:stretch;gap:12px}
+ .attachment-links{justify-content:flex-start}
+ .materials-section{padding:41px 0 50px}
+ .materials-grid{grid-template-columns:1fr;gap:10px}
+ .material-card{padding:17px 17px 16px;min-height:unset}
+ .material-actions{gap:6px}
+ .materials-heading p{font-size:12px}
+}
+.material-bundle{display:inline-flex;align-items:center;background:#1c4c62;color:#fff;font-size:12px;font-weight:800;border-radius:8px;padding:12px 16px;margin-top:19px;line-height:1.5}
+.material-bundle:hover{background:#245f7a}

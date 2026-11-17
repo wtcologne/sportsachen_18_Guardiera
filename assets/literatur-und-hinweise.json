@@ -1,0 +1,271 @@
+{
+  "sources": {
+    "gehrmann": {
+      "name": "Gehrmann & Kastrup (2023)",
+      "title": "Benotungspraxis im Sportunterricht an Grundschulen und in der Sekundarstufe II",
+      "why": "Qualitative Studie zu verwendeten Bewertungskriterien und deren Gewichtung in der Benotungspraxis.",
+      "url": "https://link.springer.com/article/10.1007/s35834-023-00401-w",
+      "access": "Wissenschaftlicher Artikel"
+    },
+    "schittkowski": {
+      "name": "Schittkowski, Woll & Wagner (2025)",
+      "title": "Multidimensionale Herausforderungen und Strategien der Leistungsbewertung im Sportunterricht",
+      "why": "Untersucht, wie Sportlehrkräfte Herausforderungen bei der Leistungsbewertung bearbeiten.",
+      "url": "https://link.springer.com/article/10.1007/s12662-024-01004-x",
+      "access": "Frei zugänglicher Artikel"
+    },
+    "guardiera": {
+      "name": "Guardiera (2019)",
+      "title": "Leistungen bewerten",
+      "why": "Fachbeitrag zur Mehrdimensionalität von Leistung und zur Bedeutung von Lernprozessen im kompetenzorientierten Sportunterricht.",
+      "url": "https://fis.dshs-koeln.de/de/publications/leistungen-bewerten-herausforderungen-und-perspektiven-der-leistu/",
+      "access": "Publikationsnachweis"
+    },
+    "fischer": {
+      "name": "Fischer & Guardiera (2023)",
+      "title": "Leistung und Leisten im Sportunterricht",
+      "why": "Vergleicht Begriffsverständnis, Anforderungen und Bewertungsvorgaben in staatlichen Lehrplänen.",
+      "url": "https://fis.dshs-koeln.de/de/publications/leistung-und-leisten-im-sportunterricht-begriffsverst%C3%A4ndnis-anfor/",
+      "access": "Publikationsnachweis"
+    },
+    "nrw": {
+      "name": "Fachportal Sport NRW",
+      "title": "Leistung und ihre Bewertung – Leistungskonzept",
+      "why": "Beispiel- bzw. Orientierungsmaterial zur Gestaltung eines schulischen Leistungskonzepts; maßgeblich bleiben die jeweils geltenden Lehrplanvorgaben.",
+      "url": "https://www.schulentwicklung.nrw.de/cms/upload/Upload/fachportal_Sport/formulare/Leistung_und_ihre_Bewertung_Leistungskonzept_210421.pdf",
+      "access": "PDF, frei zugänglich"
+    },
+    "hattie": {
+      "name": "Hattie & Timperley (2007)",
+      "title": "The Power of Feedback",
+      "why": "Grundlagenarbeit dazu, unter welchen Bedingungen Feedback Lernen unterstützt. Allgemeinpädagogisch, nicht ausschließlich sportbezogen.",
+      "url": "https://journals.sagepub.com/doi/10.3102/003465430298487",
+      "access": "Verlagsseite / ggf. eingeschränkter Volltext"
+    },
+    "ferrari": {
+      "name": "Ferrari et al. (2022)",
+      "title": "Diagnostische Kompetenz der Lehrpersonen und deren Bedeutung für die Förderung motorischer Basiskompetenzen",
+      "why": "Befunde zu Urteilsgenauigkeit und diagnostischen Kompetenzen im Bewegungs- und Sportunterricht.",
+      "url": "https://zenodo.org/records/6519655",
+      "access": "Open Access"
+    },
+    "kehm": {
+      "name": "Kehm et al. (2023)",
+      "title": "Digitale Medien zur Unterstützung eines sprachsensiblen (inklusiven) Sportunterrichts",
+      "why": "Zeigt, wie sprachliche Barrieren die Teilhabe beeinflussen können und wie Lernumgebungen sprachsensibler gestaltet werden.",
+      "url": "https://www.qfi-oz.de/index.php/inklusion/article/view/112",
+      "access": "Open Access"
+    },
+    "self": {
+      "name": "Systematischer Forschungsüberblick (2021)",
+      "title": "Systematic Review of Self-Assessment in Physical Education",
+      "why": "Überblick zu Selbsteinschätzungsverfahren im Sportunterricht; Befunde beziehen sich überwiegend auf weiterführende bzw. höhere Bildungsstufen.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7831071/",
+      "access": "Open Access"
+    },
+    "peer": {
+      "name": "Systematischer Forschungsüberblick (2020)",
+      "title": "Peer Assessment in Physical Education: A Systematic Review of the Last Five Years",
+      "why": "Fasst Studien zur gegenseitigen Beurteilung durch Lernende im Sportunterricht zusammen.",
+      "url": "https://www.mdpi.com/2071-1050/12/21/9233",
+      "access": "Open Access"
+    }
+  },
+  "notes": [
+    {
+      "id": "benotung",
+      "turn": 2,
+      "title": "Was wissen wir über Sportnoten?",
+      "types": [
+        "Literatur"
+      ],
+      "lead": "Vertiefung zur Frage, welche Kriterien in der Praxis tatsächlich für Sportnoten herangezogen werden.",
+      "refs": [
+        "gehrmann",
+        "schittkowski"
+      ]
+    },
+    {
+      "id": "gerechtigkeit",
+      "turn": 8,
+      "title": "Fairness und unterschiedliche Voraussetzungen",
+      "types": [
+        "Literatur",
+        "Praxis"
+      ],
+      "lead": "Fair muss nicht immer heißen, bei allen Lernenden nur dieselbe messbare Endleistung zu vergleichen.",
+      "refs": [
+        "schittkowski"
+      ],
+      "tip": "Reflexionsfrage: Wann sind gleiche Messwerte hilfreich – und wann verdecken sie unterschiedliche Lernvoraussetzungen?"
+    },
+    {
+      "id": "leisten",
+      "turn": 10,
+      "title": "Leistung als Ergebnis – Leisten als Prozess",
+      "types": [
+        "Literatur",
+        "Praxis"
+      ],
+      "lead": "In der Episode wird das Üben und Entwickeln neben dem punktuellen Leistungsergebnis betrachtet.",
+      "refs": [
+        "guardiera"
+      ],
+      "tip": "Kleine Transferfrage: Woran würdest du im Weitsprung über mehrere Stunden den Lernprozess erkennen – zusätzlich zur erreichten Weite?"
+    },
+    {
+      "id": "fallbeispiel",
+      "turn": 13,
+      "title": "Fallbeispiel: zwei unterschiedliche Lernwege",
+      "types": [
+        "Praxis"
+      ],
+      "lead": "Zwei fiktive Lernende üben Weitsprung: Eine Person erzielt von Beginn an hohe Weiten, eine andere verbessert ihre Technik deutlich. Welche Kriterien wären vorab für beide transparent?",
+      "tip": "Notiere zuerst zwei überprüfbare Kriterien. Welche Leistungen außerhalb der Sprungweite sind für die konkrete Lernaufgabe relevant? Keine pauschale „richtige Note“ vorgeben."
+    },
+    {
+      "id": "lehrplan",
+      "turn": 16,
+      "title": "Lehrpläne und Leistungskonzept",
+      "types": [
+        "Literatur"
+      ],
+      "lead": "Ein vertiefender Blick auf Leistungsvorstellungen in Lehrplänen und auf ein NRW-Orientierungsdokument.",
+      "refs": [
+        "fischer",
+        "nrw"
+      ]
+    },
+    {
+      "id": "dimensionen",
+      "turn": 18,
+      "title": "Fünf Dimensionen – Kriterienmatrix",
+      "types": [
+        "Literatur",
+        "Material"
+      ],
+      "lead": "Die im Gespräch genannten Dimensionen sind eine Orientierung für die Auswahl sinnvoller Kriterien – keine automatisch gleich zu gewichtenden Notenbestandteile.",
+      "refs": [
+        "gehrmann"
+      ],
+      "files": [
+        "05-bewertungsdimensionen"
+      ]
+    },
+    {
+      "id": "feedback",
+      "turn": 22,
+      "title": "Lernförderliches Feedback konkretisieren",
+      "types": [
+        "Literatur",
+        "Material"
+      ],
+      "lead": "Der Forschungsbeitrag vertieft die Rolle von Feedback. Das Gesprächsblatt übersetzt die Grundidee in drei einfache Fragen.",
+      "refs": [
+        "hattie"
+      ],
+      "files": [
+        "03-feedbackgespraech"
+      ]
+    },
+    {
+      "id": "beobachten",
+      "turn": 26,
+      "title": "Beobachtungen systematisch dokumentieren",
+      "types": [
+        "Literatur",
+        "Material"
+      ],
+      "lead": "Ein Bogen unterstützt dabei, zuerst beobachtbares Verhalten zu beschreiben und anschließend mögliche Deutungen und nächste Lernschritte zu prüfen.",
+      "refs": [
+        "ferrari"
+      ],
+      "files": [
+        "02-beobachtungsbogen"
+      ]
+    },
+    {
+      "id": "teilhabe",
+      "turn": 32,
+      "title": "Nichtteilnahme nicht vorschnell deuten",
+      "types": [
+        "Praxis"
+      ],
+      "lead": "Wenn eine Bewegung nicht ausgeführt wird, kann das verschiedene Ursachen haben. Eine einzelne Beobachtung reicht nicht für ein Urteil.",
+      "tip": "Mögliche Rückfragen: Wurde die Aufgabe verstanden? Bestehen Unsicherheiten, Angst oder Barrieren? Was könnte die Teilnahme erleichtern?"
+    },
+    {
+      "id": "kannbuch",
+      "turn": 34,
+      "title": "Kann-Buch: Lernfortschritte festhalten",
+      "types": [
+        "Material",
+        "Praxis"
+      ],
+      "lead": "Zwei einseitige Kopiervorlagen: eine offene Reflexionsseite und eine sprachsensible Variante mit Satzanfängen.",
+      "refs": [
+        "self"
+      ],
+      "files": [
+        "01-kann-buch",
+        "01b-kann-buch-sprachsensibel"
+      ],
+      "tip": "Am Ende der Stunde zwei Minuten einplanen: „Das kann ich schon … / Das möchte ich weiter üben …“. Die Einträge dienen als Gesprächsgrundlage, nicht als automatische Note."
+    },
+    {
+      "id": "sprachsensibel",
+      "turn": 36,
+      "title": "Sprache im Kann-Buch unterstützen",
+      "types": [
+        "Literatur",
+        "Praxis"
+      ],
+      "lead": "Satzanfänge und einfache sprachliche Strukturen können helfen, den eigenen Lernweg zu beschreiben.",
+      "refs": [
+        "kehm"
+      ],
+      "tip": "Alternativ mündlich antworten oder die Reflexion durch Zeichnungen ergänzen. Sprachliche Ausdrucksfähigkeit nicht mit sportlicher Leistung gleichsetzen."
+    },
+    {
+      "id": "diagnoseformen",
+      "turn": 38,
+      "title": "Informell, semiformell oder formell?",
+      "types": [
+        "Literatur",
+        "Praxis"
+      ],
+      "lead": "Die Folge unterscheidet drei Diagnoseformen. Die folgende Quelle vertieft den Blick auf diagnostische Kompetenz.",
+      "refs": [
+        "ferrari"
+      ],
+      "tip": "Starte klein: Beobachte in einer Stationsphase zwei vorher festgelegte Merkmale einer konkreten Bewegungsaufgabe."
+    },
+    {
+      "id": "peer",
+      "turn": 42,
+      "title": "Peer-Beobachtung mit klaren Kriterien",
+      "types": [
+        "Literatur",
+        "Material"
+      ],
+      "lead": "Eine einfache Kopiervorlage unterstützt die gegenseitige Beobachtung und konstruktives Feedback.",
+      "refs": [
+        "peer",
+        "self"
+      ],
+      "files": [
+        "04-peer-beobachtung"
+      ]
+    },
+    {
+      "id": "reflexion",
+      "turn": 44,
+      "title": "Reflexionsfragen für die Fachschaft",
+      "types": [
+        "Praxis"
+      ],
+      "lead": "Als Abschluss einer Fachkonferenz oder persönlichen Weiterarbeit geeignet.",
+      "tip": "Was erkenne ich als Leistung an? Wie beobachte ich systematisch? Welche Informationen nutze ich für Feedback statt nur für eine abschließende Note?"
+    }
+  ]
+}

@@ -1,54 +1,64 @@
-# Sportsachen – Folge 18
+# SPORTSACHEN · Folge 18 – Podcast mit Literatur und Praxis-Materialien
 
-**Leistung bewerten im Sport** – Gespräch mit Petra Guardiera, Moderation: Lars Fischer.
+**Leistung und Leistungsbewertung im Sportunterricht** · Gespräch mit Petra Guardiera, Moderation: Lars Fischer.
 
-Eine vollständig statische Podcast-Webseite für **GitHub Pages** mit lokal gehosteter Audiodatei (42:20 Minuten), durchsuchbarem Transkript, Kapitelübersicht und Datenblatt.
+Eine komplette, statische Webseite für GitHub Pages. Ohne Framework, Datenbank, Anmeldung oder externe JavaScript-Bibliotheken.
 
-## So veröffentlichst du sie auf GitHub Pages
+## Inhalt
 
-1. Neues Repository auf github.com anlegen, zum Beispiel `sportsachen-folge18` (öffentlich).
-2. **Alle Dateien und den kompletten `assets`-Ordner aus diesem ZIP in das Stammverzeichnis** des Repositorys hochladen (nicht nur den ZIP-Ordner hochladen).
-3. Repository öffnen → **Settings → Pages**.
-4. Unter **Build and deployment** die Option **Deploy from a branch** auswählen. `main`, Verzeichnis `/ (root)` auswählen und speichern.
-5. Nach der Bereitstellung lautet die typische Adresse `https://DEIN-GITHUB-NAME.github.io/sportsachen-folge18/`.
+- **Podcastplayer:** Audio in Folge 18 (42:20) mit 15-Sekunden-Sprüngen, Geschwindigkeit und Download.
+- **Mitlese-Transkript:** 46 Sprecherbeiträge, Zeitmarken, 14 Kapitel, Suche und optionale automatische Hervorhebung. Die Markierung erfolgt **pro Sprecherbeitrag, nicht Wort für Wort**.
+- **Literatur und Praxis:** 14 aufklappbare redaktionelle Hinweise unmittelbar unter zugehörigen Sprecherbeiträgen. Darin 10 eindeutig bezeichnete externe Quellen, vertiefende Erläuterungen und Praxisimpulse.
+- **Kopiervorlagen:** sechs eigenständig erstellte, jeweils einseitige PDF- und DOCX-Dateien sowie ein sechseitiges Sammel-PDF. Im Transkript verlinkt und separat auf der Seite auffindbar.
+- **Datenblatt:** direkt auf der Seite sichtbar sowie als PDF und DOCX zum Download.
 
-Es ist kein Build-Schritt, Framework, Backend, Nutzerkonto oder externe JavaScript-Bibliothek nötig. Die `.nojekyll`-Datei liegt bereits bei.
+## Auf GitHub Pages veröffentlichen
 
-## Funktionen
+1. ZIP **entpacken**.
+2. Bei GitHub ein Repository öffnen oder neu erstellen.
+3. Den **gesamten Inhalt** des entpackten Ordners (inklusive `index.html`, `style.css`, `script.js`, `.nojekyll` und `assets/`) in das **Stammverzeichnis** hochladen. Nicht den obersten Ordner als Unterordner hochladen.
+4. Unter `Settings → Pages` das Deployment von Branch `main` und `/(root)` konfigurieren.
+5. Ältere, nicht mehr verwendete Dateien (insbesondere `assets/sportsachen-folge17.mp3`) bei GitHub separat löschen. Dateien mit gleichem Namen und gleicher Position werden beim Hochladen überschrieben.
+6. GitHub-Pages-Adresse auf dem Handy und Desktop prüfen, ggf. Browser-Cache neu laden.
 
-- **Desktop:** Kapitelübersicht als feststehende Seitenleiste links; innerhalb der Seitenleiste scrollbar; das Transkript läuft unabhängig rechts weiter.
-- **Handy:** schmale, beim Scrollen sichtbare Kapitel-Leiste; der Button **Kapitel** öffnet ein von unten einblendendes, scrollbareres Menü. Ein Kapitel auswählen springt **sofort** zum entsprechenden Sprecherbeitrag.
-- **Player:** bleibt unten sichtbar; Abspielen/Pausieren, 15 Sekunden vor/zurück, Fortschrittsleiste, Wiedergabegeschwindigkeit. Auf dem Desktop zusätzlich MP3-Download.
-- **Transkript:** Markierung des aktuellen Sprecherbeitrags während des Hörens; „Automatisch folgen“ lässt sich abschalten; Suche, Zeitmarken, zum aktuellen Beitrag springen.
-- **Datenblatt:** Lesefassung direkt auf der Webseite, PDF in Originalgestaltung, Word-Download.
-- **Transkript zum Mitnehmen:** Word und TXT.
+> **Achtung: GitHub Pages ist öffentlich zugänglich**, auch wenn der Quellcode in einem privaten Repository liegt (je nach Tarif). Es gibt in dieser Version keine Passwortsperre. Bei geschütztem Redaktionsbetrieb bitte eine geeignete vorgeschaltete Zugangskontrolle nutzen.
 
-**Wichtig zur Synchronisierung:** Die Zeitmarken stammen aus dem redigierten Transkript und kennzeichnen Sprecherwechsel bzw. Kapitelbeginne. Die Markierung ist **sprecherbeitragsgenau**, nicht wortgenau. Bei langen Antworten bleibt deshalb derselbe Beitrag markiert, während die Aufnahme weiterläuft. Die im Originaltranskript markierte unklare Stelle ist erhalten geblieben.
-
-## Dateien
+## Verzeichnis
 
 ```text
-index.html                      Webseite
-style.css                       Desktop-/Mobil-Layout
-script.js                       Player, Kapitelnavigation, Suchfunktion, Mitlesen
-.nojekyll                       Für GitHub Pages
+index.html                Startseite, Kapitel, Transkript und redaktionelle Hinweise
+style.css                 Layout und Gestaltung
+script.js                 Player, Kapitelnavigation, Suche, Link zu Hinweisen
+.nojekyll                 Statisches GitHub-Pages-Deployment
 assets/
-  sportsachen-folge18.mp3       Web-Audio (~24 MB)
-  transkript.json               Zeitmarken / redigierte Inhalte
-  transkript.txt                Transkript als Text, Folge 18
-  transkript.docx               Transkript als Word, Folge 18
-  datenblatt-vorschau.webp      Mobilfreundliche Bildvorschau des Originaldatenblatts
-  datenblatt.pdf                Originalgestaltung, jetzt mit Folge 18
-  datenblatt.docx               Word-Fassung, jetzt mit Folge 18
-  dshs-logo.png                 Logo
+  sportsachen-folge18.mp3 Audio
+  datenblatt.pdf/.docx    Datenblatt (Folge 18)
+  datenblatt-vorschau.webp
+  transkript.json/.txt/.docx
+  dshs-logo.png
+  literatur-und-hinweise.json   Redaktionsübersicht mit Quellen und Zuordnung
+  materialien/
+    01-kann-buch.pdf/.docx
+    01b-kann-buch-sprachsensibel.pdf/.docx
+    02-beobachtungsbogen.pdf/.docx
+    03-feedbackgespraech.pdf/.docx
+    04-peer-beobachtung.pdf/.docx
+    05-bewertungsdimensionen.pdf/.docx
+    Alle_Kopiervorlagen_Folge18.pdf
 ```
 
-## Änderungen
+## Inhalte redaktionell ändern
 
-- Folgennummer in Seitentitel, sichtbaren Labels, Player, Dateinamen, Meta-Tags sowie Datenblatt und Transkript auf **18** gesetzt.
-- Ursprüngliche Formulierungen und Zeitstempel der redaktionell bearbeiteten Transkripte beibehalten.
-- Audiodatei wurde für die Website nur komprimiert (Web-MP3), der zuvor fertige Podcastschnitt nicht geändert.
+- Texte, Literatur und Materiallinks werden **derzeit direkt in `index.html`** angezeigt. Die Datei `assets/literatur-und-hinweise.json` enthält eine zusätzliche redaktionelle Referenzliste zur Nachpflege, wird aber von der Webseite nicht automatisch geladen.
+- Neue oder geänderte Quellen müssen in der HTML-Seite selbst angepasst werden. Externe Quellen werden nur **verlinkt**, nicht als urheberrechtlich geschützte Volltexte kopiert.
+- Die Hinweise sind **redaktionell vorformuliert und für alle gleich sichtbar**. Besucher können noch **keine eigenen Kommentare speichern**. Für eine interaktive Kommentarfunktion wäre ein zusätzlicher Dienst nötig.
+- Zeitmarken sind die Sprecherwechsel im vorhandenen redigierten Transkript. Ein Link `#hinweis-kannbuch` öffnet den passenden Hinweis und setzt die Abspielposition auf den Anfang des Sprecherbeitrags (ohne automatisch abzuspielen).
+- Alle Vorlagen sind redaktionelle, flexibel anpassbare Beispiele; sie stellen keine validierten Diagnoseverfahren und keine verbindlichen Notenraster dar. Es werden keine personenbezogenen Schülerdaten auf der Webseite erfasst.
 
-## Rechte und Veröffentlichung
+## Rechtliches und redaktionelle Qualitätsprüfung
 
-Stelle vor einer öffentlichen Veröffentlichung sicher, dass Podcast-Audio, Namen, Gestaltung des Datenblatts, Literatur-Links und Logos mit den nötigen Freigaben veröffentlicht werden dürfen. Die Webseite selbst nutzt keine Tracker und lädt keine externen Skripte nach.
+Vor der Veröffentlichung bitte Freigabe für Podcast, Logos, Datenblatt und Namen klären. Alle Fachartikel sind nur extern verlinkt, teilweise nur mit Abstract oder bibliografischer Angabe öffentlich zugänglich. Prüfe bei redaktionellen Änderungen die Aktualität der NRW-Vorgaben und der Literatur-URLs.
+
+Das Transkript wurde aus der vorherigen Version übernommen: Die bereits gekennzeichnete unklare Passage bei 29:31 und andere redaktionelle Prüfpunkte wurden **nicht** stillschweigend geändert. Der Textabgleich wurde nicht erneut wortgenau mit der MP3 verifiziert.
+
+**Technisch:** Keine externen Tracker, kein eingebetteter Drittanbieter-Kommentardienst. Die Webseite lädt die MP3 direkt aus dem `assets`-Ordner.

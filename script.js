@@ -203,6 +203,24 @@
     if (event.target.closest('.reader-main')) followSuspendedUntil=Date.now()+8500;
   },{passive:true}));
 
+  // Redaktionelle Anmerkungen bleiben beim Lesen offen; automatische
+  // Scrollbewegungen werden für eine Lesephase unterbrochen.
+  document.addEventListener('toggle', event => {
+    if (event.target.matches?.('.annotation-box')) followSuspendedUntil=Date.now()+90000;
+  }, true);
+  function openDeepLink() {
+    const id=decodeURIComponent(location.hash.slice(1));
+    if (!id.startsWith('hinweis-')) return;
+    const box=document.getElementById(id);
+    if (!box || !box.matches('.annotation-box')) return;
+    box.open=true;
+    const speakerTurn=box.closest('.turn');
+    if (speakerTurn) seek(Number(speakerTurn.dataset.start),false);
+    followSuspendedUntil=Date.now()+90000;
+    requestAnimationFrame(()=>box.scrollIntoView({behavior:'instant',block:'start'}));
+  }
+  window.addEventListener('hashchange',openDeepLink);
+  openDeepLink();
   updateControls();
   sync();
 })();

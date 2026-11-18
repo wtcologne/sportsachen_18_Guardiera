@@ -35,7 +35,7 @@
     const whole = Math.max(0,Math.floor(Number(seconds) || 0));
     return `${String(Math.floor(whole/60)).padStart(2,'0')}:${String(whole%60).padStart(2,'0')}`;
   };
-  const duration = () => Number.isFinite(audio.duration) ? audio.duration : 2539.92;
+  const duration = () => Number.isFinite(audio.duration) ? audio.duration : 2436.024;
   const lowerBound = (list, time) => {
     let lo = 0, hi = list.length;
     while (lo < hi) {
@@ -102,7 +102,7 @@
     const t=audio.currentTime || 0;
     if (!dragging) progress.value=t;
     currentTime.textContent=secondsFormat(t);
-    durationTime.textContent=secondsFormat(Math.ceil(duration()));
+    durationTime.textContent=secondsFormat(Math.round(duration()));
     let ix=lowerBound(starts,t);
     if (ix!==activeTurn) {
       if (activeTurn>=0) {

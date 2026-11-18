@@ -1,327 +1,552 @@
 {
-  "episode": 17,
+  "episode": 18,
   "language": "de",
-  "note": "Redigiertes, sprecherwechselbasiertes Transkript; Zeitmarken sind nicht wortgenau.",
+  "duration_seconds": 2436.024,
+  "note": "Redaktionell bereinigtes Transkript der gekürzten Endfassung. Zeitmarken stammen aus dem gelieferten Schnitttranskript (HH:MM:SS:Frames, ca. 30 fps) und sind abschnittsweise, nicht wortgenau. Bei 27:50 ist ein kurzer O-Ton unklar.",
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Intro & Begrüßung",
+      "seconds": 0.53
+    },
+    {
+      "index": 2,
+      "title": "Was wissen wir über Sportnoten?",
+      "seconds": 55.47
+    },
+    {
+      "index": 3,
+      "title": "Was wird bewertet?",
+      "seconds": 252.87
+    },
+    {
+      "index": 4,
+      "title": "Leistung und Leisten",
+      "seconds": 451.83
+    },
+    {
+      "index": 5,
+      "title": "Prozess oder Ergebnis?",
+      "seconds": 561.0
+    },
+    {
+      "index": 6,
+      "title": "Lehrpläne und Leistung",
+      "seconds": 733.5
+    },
+    {
+      "index": 7,
+      "title": "Fünf Bewertungsdimensionen",
+      "seconds": 870.97
+    },
+    {
+      "index": 8,
+      "title": "Funktion von Noten",
+      "seconds": 918.0
+    },
+    {
+      "index": 9,
+      "title": "Lernförderliches Feedback",
+      "seconds": 1010.93
+    },
+    {
+      "index": 10,
+      "title": "Diagnostik im Sportunterricht",
+      "seconds": 1262.63
+    },
+    {
+      "index": 11,
+      "title": "Individuelle Förderung",
+      "seconds": 1400.53
+    },
+    {
+      "index": 12,
+      "title": "Kann-Buch und Sprachförderung",
+      "seconds": 1741.9
+    },
+    {
+      "index": 13,
+      "title": "Formen der Diagnostik",
+      "seconds": 1855.4
+    },
+    {
+      "index": 14,
+      "title": "Schüler*innen beteiligen",
+      "seconds": 2096.37
+    },
+    {
+      "index": 15,
+      "title": "Fazit und Ausblick",
+      "seconds": 2161.17
+    }
+  ],
   "turns": [
     {
       "id": 1,
+      "seconds": 0.53,
       "time": "00:00:00",
-      "seconds": 0,
-      "speaker": "Lars Fischer",
-      "text": "Hallo und herzlich willkommen bei uns im Sportsachen-Podcast. Ja, ich bin nicht Stefan Bodemer, sondern Lars Fischer, normalerweise für die Redaktion des Podcasts verantwortlich und heute einmalig die Vertretung von Stefan. Petra Guardiera, schön, dass du dir heute die Zeit nimmst, uns im Podcast zu unterstützen. Wir wollen heute gemeinsam über das Thema Leistung und ihre Bewertung im Sportunterricht sprechen. In Nordrhein-Westfalen sind aktuell Sommerferien, was bedeutet, dass es auch vor Kurzem Zeugnisse gab. Dementsprechend die erste Frage: Was wissen wir denn eigentlich über die Noten im Unterrichtsfach Sport?"
+      "speaker": "Stefan Bodemer",
+      "text": "Hallo und herzlich willkommen zu Sportsachen, deinem Wissenschafts-Podcast zum Schulsport. Ich bin Stefan Bodemer, ehemaliger Sportjournalismus-Student der Deutschen Sporthochschule Köln und Moderator der Sendung „Die Sportmacher“ von ZDF und KiKA."
     },
     {
       "id": 2,
-      "time": "00:00:37",
-      "seconds": 37,
-      "speaker": "Petra Guardiera",
-      "text": "Ja, vielen Dank, lieber Lars, für die Einladung zu diesem Podcast. Das ist eine gute Frage, weil wir nicht so richtig viel wissen. Es gibt ein paar Studien, die sich zum Beispiel mit der Notengebung im Sportunterricht auseinandergesetzt haben, aber die sind zum Teil schon einige Jahre alt. Was wir wissen, ist, dass das Notenspektrum im Sportunterricht nicht vollumfänglich ausgeschöpft wird. Das ist wahrscheinlich auch hinlänglich bekannt. Es kursiert ja auch der Mythos, dass es keine Vieren, keine Fünfen und schon gar keine Sechsen im Sportunterricht gibt. Und es scheint sich zu bestätigen, dass überwiegend die Noten sehr gut bis befriedigend vergeben werden. Schlechtere Noten sind eher selten. Das wissen wir zum Beispiel über Noten im Sportunterricht. Wir kennen natürlich auch Gründe dafür, dass Lehrkräfte selten schlechtere Noten geben. Wenn du möchtest, kann ich da direkt auch etwas zu sagen."
+      "seconds": 20.53,
+      "time": "00:00:20",
+      "speaker": "Lars Fischer",
+      "text": "Hallo und herzlich willkommen bei uns im Sportsachen-Podcast. Ja, ich bin nicht Stefan Bodemer, sondern Lars Fischer, normalerweise für die Redaktion des Podcasts verantwortlich und heute einmalig die Vertretung von Stefan. Hallo und herzlich willkommen bei uns im Sportsachen-Podcast. Petra Guardiera, schön, dass du dir heute die Zeit nimmst, uns im Podcast zu unterstützen. Wir wollen heute gemeinsam über das Thema Leistung und ihre Bewertung im Sportunterricht sprechen. Dementsprechend die erste Frage: Was wissen wir denn eigentlich über die Noten im Unterrichtsfach Sport?"
     },
     {
       "id": 3,
-      "time": "00:01:33",
-      "seconds": 93,
+      "seconds": 55.47,
+      "time": "00:00:55",
+      "speaker": "Petra Guardiera",
+      "text": "Ja, vielen Dank, lieber Lars, für die Einladung zu diesem Podcast."
+    },
+    {
+      "id": 4,
+      "seconds": 59.73,
+      "time": "00:00:59",
+      "speaker": "Petra Guardiera",
+      "text": "Das ist eine gute Frage, weil wir nicht so richtig viel wissen. Es gibt ein paar Studien, die sich zum Beispiel mit der Notengebung im Sportunterricht auseinandergesetzt haben. Aber die sind zum Teil auch schon einige Jahre alt. Was wir wissen, ist, dass das Notenspektrum im Sportunterricht beispielsweise nicht vollumfänglich ausgeschöpft wird. Das ist wahrscheinlich auch hinlänglich bekannt, kursiert ja auch als Mythos, dass es keine Vieren, keine Fünfen und schon gar keine Sechsen im Sportunterricht gibt. Und das scheint sich zu bestätigen, dass überwiegend die Noten sehr gut bis befriedigend vergeben werden. Schlechtere Noten sind eher selten. Das wissen wir zum Beispiel über Noten im Sportunterricht. Wir kennen natürlich auch Gründe dafür, dass Lehrkräfte selten schlechtere Noten geben. Wenn du möchtest, kann ich da direkt etwas zu sagen."
+    },
+    {
+      "id": 5,
+      "seconds": 110.97,
+      "time": "00:01:50",
       "speaker": "Lars Fischer",
       "text": "Ja, sehr gerne. Das wäre sonst meine nächste Frage gewesen."
     },
     {
-      "id": 4,
-      "time": "00:01:37",
-      "seconds": 97,
-      "speaker": "Petra Guardiera",
-      "text": "Lehrkräfte führen unterschiedliche Gründe an, zum Beispiel, dass sie versuchen, über die Sportnote zu motivieren, weil sie ja das Ziel verfolgen, zum lebenslangen Sporttreiben zu erziehen. Deswegen versuchen sie, vielfältige Leistungen von Schüler*innen anzuerkennen. Also nicht nur die sportmotorische Leistung, sondern auch die sonstige Mitarbeit im Sportunterricht oder das Sozialverhalten, etwa die Kooperationsbereitschaft oder die Mithilfe beim Auf- und Abbau von Geräten. Sie hoffen eben, Schüler*innen dadurch für das Sporttreiben zu begeistern und sie nicht durch den Sportunterricht zu verschrecken, weil eine Aufgabe ja auch darin besteht, zum lebenslangen Sporttreiben zu erziehen. Man kann sich natürlich fragen, ob die Rechnung am Ende so aufgeht, wenn Schüler*innen vielleicht irgendwann die Idee entwickeln: „Ich muss mich nicht besonders anstrengen, weil ich sowieso nichts Schlechteres als eine Drei bekomme“, und dann die ursprüngliche Intention verloren geht. Aber dazu kann ich nichts sagen; das müsste erforscht werden. Dann ist es oft so, dass Sportlehrkräfte anders als in anderen Unterrichtsfächern keine schriftlichen Arbeiten bei der Notenvergabe zugrunde legen können. Das ist so ein bisschen ein hausgemachtes Problem. Schriftliche Arbeiten gibt es selten im Sportunterricht. Vielleicht gibt es mal einen Sporthefter, der eingesammelt und bewertet werden kann. Aber sonst setzt sich die Note eben aus anderen Leistungen zusammen. Und ein wichtiger Punkt ist, glaube ich, dass Lehrkräfte hohen Erwartungshaltungen ausgesetzt sind: seitens der Schüler*innen, die mittlerweile fast automatisch davon ausgehen, dass sie nichts Schlechteres als eine Drei im Sportunterricht bekommen, aber auch seitens der Eltern, die ebenfalls davon ausgehen, dass man im Sport bestimmt kein „ausreichend“ oder Schlechteres auf dem Zeugnis stehen hat. Mit diesem Druck müssen sich Lehrkräfte auseinandersetzen und wählen dann vielleicht auch einen pragmatischen Weg."
-    },
-    {
-      "id": 5,
-      "time": "00:03:58",
-      "seconds": 238,
-      "speaker": "Lars Fischer",
-      "text": "Jetzt haben wir schon darüber gesprochen, was die Beweggründe auf Lehrkräfteseite sind. Du hast zum Beispiel die Anstrengungsbereitschaft angesprochen. Wissen wir denn etwas darüber, was tatsächlich bewertet wird? Ist es die Anstrengungsbereitschaft? Du sprachst auch von sportmotorischer Leistungsfähigkeit. Wissen wir dazu Näheres?"
-    },
-    {
       "id": 6,
-      "time": "00:04:20",
-      "seconds": 260,
+      "seconds": 115.0,
+      "time": "00:01:55",
       "speaker": "Petra Guardiera",
-      "text": "Wir haben schon Anhaltspunkte dafür, dass Lehrkräfte unterschiedliche Bewertungskriterien zugrunde legen. Wir wissen aber auch, dass die Leistungsbewertung insbesondere auf die sportmotorische Leistung abzielt. Die sportmotorische Leistung wird überwiegend zugrunde gelegt, weil sie am einfachsten zu bewerten ist, insbesondere wenn es sich um messbare Leistungsergebnisse handelt, wie beispielsweise in der Leichtathletik. Aber wir wissen auch, dass die Anstrengungsbereitschaft und das Sozialverhalten mitbewertet werden. Allerdings wissen wir wenig darüber, in welcher Art und Weise und wie systematisch das erfolgt und welche Kriterien dabei zugrunde gelegt werden."
+      "text": "Also Lehrkräfte führen unterschiedliche Gründe an, wie zum Beispiel, dass sie versuchen, über die Sportnote zu motivieren, weil sie ja das Ziel verfolgen, zum lebenslangen Sporttreiben zu erziehen. Und deswegen versuchen sie, vielfältige Leistungen von Schüler*innen anzuerkennen. Also zum Beispiel nicht nur die sportmotorische Leistung anzuerkennen, sondern auch die sonstige Mitarbeit im Sportunterricht oder auch das Sozialverhalten, so was wie die Kooperationsbereitschaft oder auch die Mithilfe beim Auf- und Abbau von Geräteaufbauten usw. Weil sie eben hoffen, dadurch Schüler*innen für das Sporttreiben zu begeistern, sie nicht zu verschrecken über den Sportunterricht, weil eine Aufgabe ja auch darin besteht, zum lebenslangen Sporttreiben zu erziehen. Man kann sich natürlich fragen, ob die Rechnung am Ende auch so aufgeht, wenn Schüler vielleicht irgendwann die Idee entwickeln, ich muss mich nicht besonders anstrengen, weil ich sowieso nichts Schlechteres als eine Drei bekomme und dann sozusagen die ursprüngliche Intention dadurch verloren geht. Aber dazu kann ich nichts sagen, das müsste erforscht werden."
     },
     {
       "id": 7,
-      "time": "00:05:12",
-      "seconds": 312,
-      "speaker": "Lars Fischer",
-      "text": "Das hat ja auch etwas mit Fairness zu tun. Wenn ich versuche, die Leistungen, die einer Note zugrunde liegen, nach Möglichkeit zu messen oder zu stoppen, ist das etwas anderes als bei in Anführungsstrichen „weichen“ Punkten wie der Anstrengungsbereitschaft. Das ist natürlich, würde ich denken, wesentlich schwieriger zu beurteilen: Strengt sich jemand an oder nicht?"
+      "seconds": 186.13,
+      "time": "00:03:06",
+      "speaker": "Petra Guardiera",
+      "text": "Dann ist es oft so, dass Sportlehrkräfte natürlich anders als in anderen Unterrichtsfächern keine schriftlichen Arbeiten bei der Notenvergabe zugrunde legen können, Das ist so ein bisschen ein hausgemachtes Problem. Schriftliche Arbeiten gibt es selten im Sportunterricht, vielleicht gibt es mal einen Sporthefter, der eingesammelt und bewertet werden kann, aber so setzt sich die Note eben aus anderen Bestandteilen zusammen oder aus anderen Leistungen zusammen und schriftliche Arbeiten sind eher selten der Fall."
     },
     {
       "id": 8,
-      "time": "00:05:31",
-      "seconds": 331,
+      "seconds": 214.77,
+      "time": "00:03:34",
       "speaker": "Petra Guardiera",
-      "text": "Genau. Ich bin als Sportlehrkraft erst mal auf der sicheren Seite, wenn ich eindeutig nachweisen kann, auf welcher Bemessungsgrundlage die Note, die ich gebe, zustande kommt. Das hat sicherlich auch etwas mit Fairness zu tun. Wenn wir aber die Schüler*innenperspektive in den Blick nehmen, ist eine solche Leistungsbewertung vielleicht nicht zwingend fair. Denn nicht alle Schüler*innen bringen die gleichen Lern- und Leistungsvoraussetzungen mit in den Sportunterricht. Das gilt für jedes Unterrichtsfach. Im Sportunterricht haben wir zusätzlich die körperliche Komponente. Nicht alle Schüler*innen sind imstande, das Gleiche zu leisten beziehungsweise gleiche Leistungsentwicklungen zu zeigen. Eine Leistungsbewertung, die einzig auf dem messbaren Leistungsergebnis fußt, vernachlässigt ein Stück weit Leistungen, die außerhalb der körperlich-motorischen Leistung liegen. Dazu gehören die sonstige Mitarbeit im Sportunterricht, sozial-kommunikative Fähigkeiten oder strategisch-methodische Fähigkeiten. Das sind alles Leistungen, die Schüler*innen bei der Bearbeitung von Aufgaben im Sportunterricht erbringen, die man grundsätzlich mitbewerten könnte und auch mitbewerten soll. Sie würden es den Schüler*innen auf vielfältige Weise ermöglichen, Leistungen zu erbringen und ihr Leistungsvermögen unter Beweis zu stellen."
+      "text": "Und dann ist es natürlich auch so, und das ist glaube ich ein wichtiger Punkt, dass Lehrkräfte ja hohen Erwartungshaltungen ausgesetzt sind, seitens der Schüler*innen, die mittlerweile im Grunde automatisch davon ausgehen, dass sie nichts Schlechteres als eine Drei im Sportunterricht bekommen, aber auch von den Eltern mit dieser Erwartungshaltung konfrontiert werden, die ebenfalls davon ausgehen, dass man im Sport ja ganz bestimmt kein ausreichend oder Schlechteres auf dem Zeugnis stehen hat, so dass sich Lehrkräfte eben auch mit diesem Druck in irgendeiner Form auseinandersetzen müssen und dann ja vielleicht auch einen pragmatischen Weg wählen."
     },
     {
       "id": 9,
-      "time": "00:07:22",
-      "seconds": 442,
+      "seconds": 252.87,
+      "time": "00:04:12",
       "speaker": "Lars Fischer",
-      "text": "Jetzt kreisen wir schon viel um diesen Leistungsbegriff herum. Vielleicht ist es sinnvoll, für die Zuhörer*innen noch einmal einen Schritt zurückzugehen. Was verstehen wir denn eigentlich in der Sportpädagogik unter Leistung?"
+      "text": "Jetzt haben wir ja schon darüber gesprochen, was die Beweggründe auf Lehrkräfteseite sind. Du hast zum Beispiel die Anstrengungsbereitschaft angesprochen. Wissen wir denn etwas darüber, was tatsächlich bewertet wird? Ist es die Anstrengungsbereitschaft? Du sprachst auch von sportmotorischer Leistungsfähigkeit. Wissen wir dazu Näheres?"
     },
     {
       "id": 10,
-      "time": "00:07:36",
-      "seconds": 456,
+      "seconds": 274.7,
+      "time": "00:04:34",
       "speaker": "Petra Guardiera",
-      "text": "Es ist gut, dass du nach Sportpädagogik fragst, denn der Leistungsbegriff als solcher ist nicht eindeutig festgelegt. Er ist kontextgebunden und auch disziplinspezifisch zu verstehen. In pädagogischen Kontexten unterscheiden wir beispielsweise das Leisten von der Leistung. Das hat auch mit der Anerkennung unterschiedlicher beziehungsweise heterogener Lern- und Leistungsvoraussetzungen von Schüler*innen zu tun. Das Leisten meint den Leistungsprozess: die Entwicklung der Schüler*innen, das Üben oder das Bearbeiten einer oder mehrerer Aufgaben, das sich über einen längeren Zeitraum hinzieht. Das, was Schüler*innen im Verlauf leisten, kann gleichermaßen anerkannt werden wie die Leistung als solche, die eher das Leistungsergebnis bezeichnet. Wenn wir im Weitsprung darüber sprechen, dass bestimmte Weiten erzielt werden sollen und Schüler*innen sich über mehrere Unterrichtsstunden damit auseinandersetzen und üben, dann leisten sie etwas, das im Rahmen eines schulischen Leistungsbegriffs anerkennenswert ist. Das Ergebnis sieht man dann punktuell, wenn Schüler*innen eine bestimmte Weite springen, für die sie eine Note bekommen, der wiederum ein bestimmter Wert zugemessen wird."
+      "text": "Also wir haben schon Anhaltspunkte darüber, dass Lehrkräfte unterschiedliche Bewertungskriterien zugrunde legen. Wir wissen aber auch, dass die Leistungsbewertung insbesondere auf die sportmotorische Leistung abzielt. Also die sportmotorische Leistung wird überwiegend zugrunde gelegt, weil sie am einfachsten zu bewerten ist, insbesondere wenn es sich um messbare Leistungsergebnisse handelt, wie beispielsweise in der Leichtathletik. Aber wir wissen auch, dass so etwas wie die Anstrengungsbereitschaft und das Sozialverhalten mitbewertet werden. Allerdings wissen wir wenig darüber, in welche Art und Weise und wie systematisch das vielleicht auch erfolgt und welche Kriterien dann da auch zugrunde gelegt werden."
     },
     {
       "id": 11,
-      "time": "00:09:13",
-      "seconds": 553,
+      "seconds": 325.17,
+      "time": "00:05:25",
+      "speaker": "Lars Fischer",
+      "text": "Das hat ja auch etwas mit Fairness zu tun. Wenn ich versuche, die Leistungen, die einer Note zugrunde liegen, nach Möglichkeit zu messen, zu stoppen – im Gegensatz zu in Anführungsstrichen „weichen“ Punkten wie der Anstrengungsbereitschaft. Das ist natürlich, würde ich jetzt denken, wesentlich schwieriger zu beurteilen: ob sich jemand anstrengt oder nicht."
+    },
+    {
+      "id": 12,
+      "seconds": 345.43,
+      "time": "00:05:45",
+      "speaker": "Petra Guardiera",
+      "text": "Genau, ich bin natürlich als Sportlehrkraft erstmal auf der sicheren Seite, wenn ich sehr eindeutig nachweisen kann, auf welcher Bemessungsgrundlage die Note, die ich gebe, zustande kommt. Das ist klar. Und das hat sicherlich auch etwas mit Fairness zu tun. Wenn wir jetzt die Schüler*innenperspektive in den Blick nehmen, ist eine solche Leistungsbewertung aber vielleicht nicht zwingend fair. Denn nicht alle Schüler*innen bringen die gleichen Lern- und Leistungsvoraussetzungen mit in den Sportunterricht. Das gilt für jedes Unterrichtsfach. Im Sportunterricht haben wir noch die körperliche Komponente, die als Voraussetzung dazukommt. Und nicht alle Schüler*innen sind natürlich imstande, das Gleiche zu leisten, beziehungsweise imstande, ja, gleiche Leistungsentwicklungen zu zeigen. Und eine Leistungsbewertung, die einzig auf dem Leistungsergebnis, auf dem messbaren Leistungsergebnis"
+    },
+    {
+      "id": 13,
+      "seconds": 406.0,
+      "time": "00:06:46",
+      "speaker": "Petra Guardiera",
+      "text": "fußt, vernachlässigt ein Stück weit Leistungen, die außerhalb körperlich-motorischer Leistungen liegen. Also eben so etwas wie die sonstige Mitarbeit im Sportunterricht, sozial-kommunikative Fähigkeiten, strategisch-methodische Fähigkeiten. Das sind ja auch alles Leistungen, die Schüler*innen im Zuge der Bearbeitung von Aufgaben im Sportunterricht erbringen, die man grundsätzlich mitbewerten könnte, die man auch mitbewerten soll."
+    },
+    {
+      "id": 14,
+      "seconds": 439.0,
+      "time": "00:07:19",
+      "speaker": "Petra Guardiera",
+      "text": "Und die es letzten Endes Schüler*innen ja auf vielfältige Weise ermöglichen würden, Leistungen zu erbringen und ihr Leistungsvermögen sozusagen auch unter Beweis zu stellen."
+    },
+    {
+      "id": 15,
+      "seconds": 451.83,
+      "time": "00:07:31",
+      "speaker": "Lars Fischer",
+      "text": "Jetzt kreisen wir ja schon ganz viel um diesen Leistungsbegriff herum. Vielleicht ist es auch sinnvoll für die Zuhörer*innen auch nochmal einen Schritt zurückzugehen. Was verstehen wir denn eigentlich in der Sportpädagogik unter Leistung?"
+    },
+    {
+      "id": 16,
+      "seconds": 464.57,
+      "time": "00:07:44",
+      "speaker": "Petra Guardiera",
+      "text": "Also es ist gut, dass du nach Sportpädagogik fragst, denn der Leistungsbegriff als solcher ist nicht eindeutig formuliert, er ist kontextgebunden und ja auch disziplinspezifisch zu verstehen. In pädagogischen Kontexten unterscheiden wir beispielsweise das Leisten von der Leistung, was ein Stück weit auch mit der Anerkennung ja unterschiedlicher oder heterogener Lern- und Leistungsvoraussetzungen von Schüler*innen zu tun hat. Das Leisten an sich meint also sozusagen den Leistungsprozess, also man könnte sagen: die Entwicklung der Schüler*innen, das Üben oder das Bearbeiten einer oder mehrerer Aufgaben, das sich über einen längeren Zeitraum hinzieht. Das heißt, das was Schüler*innen also sozusagen im Verlauf leisten, kann gleichermaßen anerkannt werden wie die Leistung als solche, die eher das Leistungsergebnis bezeichnet."
+    },
+    {
+      "id": 17,
+      "seconds": 527.33,
+      "time": "00:08:47",
+      "speaker": "Petra Guardiera",
+      "text": "Also wenn wir jetzt im Weitsprung darüber sprechen, dass bestimmte Weiten erzielt werden sollen und Schüler*innen sich über mehrere Unterrichtsstunden damit auseinandersetzen und üben, dann leisten sie etwas, das im Zuge eines schulischen Leistungsbegriffs dann eben auch anerkennenswert ist und das Ergebnis ist dann eben irgendwann punktuell zu sehen, wenn Schüler*innen eine bestimmte Weite springen, für die sie dann eine Note bekommen, der wiederum ein bestimmter Wert dann zugemessen wird."
+    },
+    {
+      "id": 18,
+      "seconds": 561.0,
+      "time": "00:09:21",
       "speaker": "Lars Fischer",
       "text": "Überspitzt gefragt, sollte sich eine Lehrkraft dann eher nach dem Leistungsergebnis oder dem Leistungsprozess richten?"
     },
     {
-      "id": 12,
-      "time": "00:09:22",
-      "seconds": 562,
-      "speaker": "Petra Guardiera",
-      "text": "Eine Lehrkraft sollte meines Erachtens beides im Blick behalten. Das führt natürlich zu Schwierigkeiten, wenn Schüler*innen schon mit sehr günstigen Leistungsvoraussetzungen in den Sportunterricht kommen. Schüler*innen beispielsweise, die im Leichtathletikverein aktiv sind – um beim Weitsprung zu bleiben –, springen schon bestimmte Weiten und verfügen über bestimmte Techniken. Sie durchlaufen dann im Sportunterricht möglicherweise keinen entsprechenden sportmotorischen Entwicklungsprozess mehr. Diese Schüler*innen kann ich aber auf andere Art und Weise fordern und ihre Fähigkeiten auf andere Art und Weise im Sportunterricht einsetzen. Sie werden von vornherein ein sehr gutes Leistungsergebnis erzielen, und die Notenskala ist nach oben begrenzt: Mehr als ein „sehr gut“ können wir nicht geben. Das ist insofern ein Stück weit unfair, weil das Kriterium Leistungsentwicklung für diese Schüler*innen, zumindest in sportmotorischer Hinsicht, nicht so herangezogen werden kann wie für diejenigen, die noch Entwicklungspotenzial aufweisen. Andere Schüler*innen sind vielleicht vorher noch nicht mit dem Weitsprung in Kontakt gekommen, müssen Techniken erlernen und üben, um weiter zu springen als in den Wochen zuvor. Da ist ein Entwicklungsprozess zu erkennen, den ich durchaus honorieren kann. Das hat meines Erachtens auch etwas mit der Aufgabe der Leistungserziehung zu tun. Wir dürfen nicht vergessen, dass wir in der Schule mit Heranwachsenden zu tun haben, die mit dem Leistungsprinzip je nach Alters- und Schulstufe überhaupt erst vertraut gemacht werden müssen – beispielsweise in der Grundschule. Im Laufe ihrer Schullaufbahn lernen sie dann, was es bedeutet, etwas zu leisten, und welchen Wert Leistung in unserer Gesellschaft hat. Vor diesem Hintergrund scheint es mir pädagogisch notwendig, Leistungsentwicklung zu begleiten und mit den Schüler*innen darüber in den Austausch zu gehen: Wo stehen sie, wie haben sie sich entwickelt, wie ist ihre Leistung einzuordnen und warum lohnt es sich, sich anzustrengen und etwas zu üben, um eine Leistung zu erbringen? Das hat die Frage, glaube ich, nicht beantwortet."
-    },
-    {
-      "id": 13,
-      "time": "00:12:02",
-      "seconds": 722,
-      "speaker": "Lars Fischer",
-      "text": "Ich glaube schon. Ja, ich bin nicht sicher. Jetzt haben wir über Prozess und Ergebnis gesprochen. Da würde ich denken, dass die Gefahr besteht, wenn ich mich sehr auf den Lernprozess konzentriere, Schüler*innen dazu zu ermuntern, sich in der ersten Weitsprungstunde erst mal zurückzuhalten, um dann im weiteren Verlauf eine stärkere Steigerung vorweisen zu können. Wirkt die Kombination aus beidem dem vielleicht ein Stück weit entgegen?"
-    },
-    {
-      "id": 14,
-      "time": "00:12:39",
-      "seconds": 759,
-      "speaker": "Petra Guardiera",
-      "text": "Das ist eine Frage, die Studierende auch manchmal in der Diskussion über Leistungsbewertung im Sportunterricht stellen. Mir ist das Phänomen nicht begegnet. Ich komme selbst aus dem Schuldienst, habe viele Noten im Sportunterricht gegeben und viele Lern- und Leistungsprozesse begleitet. Mir ist das Problem in der Form nicht begegnet. Mir ist auch nicht untergekommen, dass sich sehr gute Schüler*innen darüber beklagen, wenn weniger gute Schüler*innen eine vergleichsweise gute Note bekommen. Aus Schüler*innenperspektive ist mir nicht bekannt, und die Literatur gibt das meines Erachtens in der Form auch nicht her, dass Schüler*innen Schwierigkeiten damit haben, wenn bei Mitschüler*innen mit schlechteren Ausgangsbedingungen der Entwicklungsprozess stärker berücksichtigt wird als bei denjenigen, die ohnehin schon sehr stark sind. Und mir ist auch nicht untergekommen, dass sich Schüler*innen absichtlich schlechter stellen, als sie tatsächlich zu leisten imstande wären."
-    },
-    {
-      "id": 15,
-      "time": "00:13:51",
-      "seconds": 831,
-      "speaker": "Lars Fischer",
-      "text": "Dann ist für eine Lehrkraft natürlich auch ausschlaggebend, was der Lehrplan vorgibt. Was steht denn eigentlich in den Lehrplänen zum Thema Leistung und Leistungsbewertung?"
-    },
-    {
-      "id": 16,
-      "time": "00:13:59",
-      "seconds": 839,
-      "speaker": "Petra Guardiera",
-      "text": "Das ist von Bundesland zu Bundesland unterschiedlich. Wir haben vor ein paar Jahren exemplarisch sechs Lehrpläne aus nord-, süd-, west- und ostdeutschen Bundesländern miteinander verglichen. Wenn wir uns die unterschiedlichen Lehrpläne anschauen, finden wir verschiedene Hinweise zum Umgang mit Leistungsbewertung. In Summe heben die Lehrpläne schon darauf ab, dass der Heterogenität beziehungsweise dem unterschiedlichen Leistungsvermögen der Schüler*innen Rechnung getragen werden soll. Beispielsweise soll auf individuelle Leistungen und individuellen Leistungsfortschritt Wert gelegt werden. Gleichwohl finden wir in Zusatzmaterialien zu Lehrplänen vermehrt Bewertungsvorschläge, die auf die sportmotorische Leistung und auf messbare Ergebnisse abheben. Die Anstrengungsbereitschaft oder das Sozialverhalten werden quasi als Nebenkriterien behandelt, ohne konkrete Angaben, wie diese Leistungsbereiche beurteilt werden sollen. Wir finden also einen gewissen Widerspruch: Auf der einen Seite sprechen Lehrpläne über kompetenzorientierte Leistungsbewertung. Wenn wir Kompetenzorientierung ernst nehmen, meinen wir nicht nur Wissen und Können, sondern auch Bereitschaften und Fähigkeiten, die Schüler*innen entwickeln sollen und die über die körperlich-motorische Dimension des Sportunterrichts hinausgehen. Das finden wir in allen betrachteten Lehrplänen wieder. Auf der anderen Seite fokussieren die Bewertungsvorschläge sehr stark auf die körperlich-motorischen Dimensionen. Insofern finden wir einen Bruch in diesen Lehrplaninstrumenten."
-    },
-    {
-      "id": 17,
-      "time": "00:16:08",
-      "seconds": 968,
-      "speaker": "Lars Fischer",
-      "text": "Jetzt haben wir schon viel über die sportmotorische Dimension gesprochen. Du hast sie eben exemplarisch angesprochen. Vielleicht noch einmal zusammenfassend: Welche Dimensionen sollten denn laut fachdidaktischer Literatur konkret in die Sportnote einfließen?"
-    },
-    {
-      "id": 18,
-      "time": "00:16:24",
-      "seconds": 984,
-      "speaker": "Petra Guardiera",
-      "text": "Wenn wir in die fachdidaktische Literatur schauen, finden wir zum Beispiel eine Studie von Gehrmann und Kastrup, die fünf unterschiedliche Dimensionen aus der Literatur extrahiert haben, die als Bewertungsgrundlage herangezogen werden können. Zu diesen Dimensionen gehört die sportmotorische Leistung, die hattest du schon genannt. Daneben benennen sie die individuelle Entwicklung der Schüler*innen, die Leistungs- oder Anstrengungsbereitschaft, über die wir gesprochen haben, das Sozialverhalten und die kognitive Leistungsfähigkeit."
-    },
-    {
       "id": 19,
-      "time": "00:16:57",
-      "seconds": 1017,
-      "speaker": "Lars Fischer",
-      "text": "Leistungsbeurteilung mündet ja dann oft im Endergebnis in Ziffernoten. Das ist keine Besonderheit des Unterrichtsfachs Sport, sondern des Schulsystems generell. Welche Funktionen sollen Noten eigentlich erfüllen? Also plakativ gefragt: Warum haben wir eigentlich Noten?"
+      "seconds": 570.7,
+      "time": "00:09:30",
+      "speaker": "Petra Guardiera",
+      "text": "Eine Lehrkraft sollte beides im Blick behalten für meine Begriffe. Das führt natürlich zu Schwierigkeiten, wenn ich Schüler*innen habe, die schon mit sehr hohen Leistungsvoraussetzungen, sehr günstigen Leistungsvoraussetzungen in den Sportunterricht kommen. Schüler*innen, die beispielsweise im Leichtathletikverein aktiv sind, um mal bei dem Thema Weitsprung zu bleiben, das mir jetzt gerade zufällig eingefallen ist, die dann eben schon mit günstigen Voraussetzungen kommen und schon bestimmte Weiten springen, über bestimmte Techniken verfügen, die natürlich dann im Rahmen des Sportunterrichts keinen entsprechenden sportmotorischen Entwicklungsprozess mehr durchlaufen."
     },
     {
       "id": 20,
-      "time": "00:17:15",
-      "seconds": 1035,
+      "seconds": 612.0,
+      "time": "00:10:12",
       "speaker": "Petra Guardiera",
-      "text": "Ziffernoten sind natürlich eine recht pragmatische Form der Rückmeldung. Sie sollen Auskunft über die Qualität der Leistungen geben, die Schüler*innen in bestimmten Unterrichtsfächern erbracht haben. Ziffernoten haben aber auch ganz klar eine Allokations- und Selektionsfunktion. Sie bestimmen letztlich mit darüber, welche Schulformen Schüler*innen nach der Grundschule besuchen dürfen, ob sie in die nächste Klasse versetzt werden, welchen Schulabschluss und welche Zugangsberechtigungen sie haben, ob sie ein universitäres Studium aufnehmen dürfen oder vielleicht auch nicht und so weiter und so fort. Man muss aber auch sagen, dass die Aussagekraft von Ziffernoten eingeschränkt ist. Sie verdichten sehr viele Informationen, die der Lehrkraft ursprünglich vorlagen, in einer einzigen Ziffer. Diese Informationen gehen für Schüler*innen und Eltern ein Stück weit verloren, weil sie aus der Ziffernnote nicht mehr herauszulesen sind."
+      "text": "Diese Schüler*innen kann ich aber vielleicht auf andere Art und Weise im Sportunterricht fordern und kann Fähigkeiten, die sie mitbringen, auf andere Art und Weise im Sportunterricht einsetzen. Diese Schüler*innen werden von vornherein ein sehr gutes Leistungsergebnis erzielen und die Notenskala ist nach oben begrenzt. Mehr als ein „Sehr gut“ können wir nicht geben an der Stelle. Und das ist, das meinte ich gerade, das insofern natürlich ein Stück weit unfair, weil dieses Kriterium Leistungsentwicklung für diese Schüler*innen, zumindest in sportmotorischer Hinsicht, nicht so herangezogen werden kann wie für Schüler*innen, die noch ein gewisses Entwicklungspotenzial aufweisen, die vielleicht vorher mit dem Weitsprung noch nicht in Kontakt gekommen sind, die Techniken erlernen müssen, die vielleicht auch üben müssen, weiter zu springen als in der Woche vorher und der Woche davor, sodass da also ein Entwicklungsprozess zu erkennen ist, den ich durchaus honorieren kann. Das hat für meine Begriffe auch etwas mit der Aufgabe der Leistungserziehung zu tun, weil wir nicht vergessen dürfen, dass wir in Schule mit Heranwachsenden zu tun haben, die mit dem Leistungsprinzip je nach Altersstufe und Schulstufe überhaupt erstmal vertraut gemacht werden müssen. In der Grundschule beispielsweise ist das der Fall. Oder die dann eben auch im Laufe ihrer Schullaufbahn sozusagen lernen müssen, was es bedeutet, etwas zu leisten und welchen Wert Leistung in unserer Gesellschaft hat. Und vor dem Hintergrund scheint es mir pädagogisch notwendig, Leistungsentwicklung auch zu begleiten,"
     },
     {
       "id": 21,
-      "time": "00:18:28",
-      "seconds": 1108,
-      "speaker": "Lars Fischer",
-      "text": "Da stellt sich für mich die Frage: Wie lernförderlich ist eigentlich eine Ziffernnote? Wenn auf meinem Zeugnis nachher nur steht „Sport: gut“, welchen lernförderlichen Effekt kann eine solche Ziffer überhaupt erfüllen?"
+      "seconds": 705.77,
+      "time": "00:11:45",
+      "speaker": "Petra Guardiera",
+      "text": "dazu mit den Schüler*innen in den Austausch zu gehen, um ihnen aufzuzeigen, sozusagen wo sie stehen, in welcher Hinsicht sie sich entwickelt haben, wie ihre Leistung einzuordnen ist und warum es sich eben sozusagen lohnt, sich anzustrengen, etwas zu üben, um dann eine Leistung zu erbringen. Das hat die Frage glaube ich nicht beantwortet."
     },
     {
       "id": 22,
-      "time": "00:18:44",
-      "seconds": 1124,
-      "speaker": "Petra Guardiera",
-      "text": "Der lernförderliche Effekt einer Ziffernnote ist sicherlich eingeschränkt. Deutlich lernförderlicher sind Feedbackgespräche, die Lehrkräfte mit Schüler*innen über die Note beziehungsweise ihr Zustandekommen führen. Das wirft auch noch einmal ein anderes Licht auf den Prozess der Leistungsbewertung, weil wir nicht nur Leistungsergebnisse benoten und ihren Wert in einer Ziffernnote abbilden, sondern auch den Leistungsprozess der Schüler*innen im Blick behalten. Wir können ihnen zwischendurch Feedback zu ihrem Leistungsstand geben, anhand bestimmter Kriterien, die wir vielleicht im Vorfeld mit ihnen besprochen haben. Wir wissen zum Beispiel aus der Forschung von Hattie, dass Feedback einen Wert für den Lernerfolg von Schüler*innen hat. In solchen Gesprächen verständigen sich Schüler*innen und Sportlehrkräfte über den Leistungsstand. Schüler*innen erhalten vertiefte Einsichten in das eigene Leisten, können darüber mitbestimmen, wie der weitere Lernweg aussehen soll, und verstehen besser, wo sie mit ihrer Leistung gerade stehen, inwiefern sie sich weiterentwickelt haben und wie sie im Verhältnis zu den erwarteten Leistungen oder auch zu ihren Mitschüler*innen stehen. Solche Feedbackgespräche haben deutlich mehr Aussagekraft und eine Diagnose- und Rückmeldefunktion, die eine Ziffernnote in dieser Form nicht erfüllen kann."
+      "seconds": 728.73,
+      "time": "00:12:08",
+      "speaker": "Lars Fischer",
+      "text": "Ich glaube schon. Ja, ich bin nicht sicher."
     },
     {
       "id": 23,
-      "time": "00:20:40",
-      "seconds": 1240,
+      "seconds": 733.5,
+      "time": "00:12:13",
       "speaker": "Lars Fischer",
-      "text": "Wie könnten diese Feedbackgespräche aussehen? Angenommen, ich habe eine siebte Klasse mit 30 Schüler*innen und will jedem Kind lernförderliches Feedback geben. Das stelle ich mir sehr zeitintensiv vor. Welche Möglichkeiten habe ich denn als Lehrkraft, wirklich lernförderliches Feedback zu geben?"
+      "text": "Dann ist natürlich für eine Lehrkraft auch ausschlaggebend, was der Lehrplan vorgibt. Was steht denn eigentlich in den Lehrplänen zum Thema Leistung und Leistungsbewertung?"
     },
     {
       "id": 24,
-      "time": "00:21:06",
-      "seconds": 1266,
+      "seconds": 741.93,
+      "time": "00:12:21",
       "speaker": "Petra Guardiera",
-      "text": "Der Sportunterricht gibt es natürlich nicht her, 30 Schüler*innen in einer Stunde ein entsprechendes Feedback zu geben. Ich kann das Gespräch vorentlasten, indem ich den Schüler*innen beispielsweise im Vorfeld eine schriftliche Rückmeldung zukommen lasse und dann auf dieser Grundlage mit ihnen Gespräche führe. Ich kann das über einen längeren Zeitraum mit wechselnden Schüler*innen tun. Dafür nutze ich bestimmte Situationen im Unterricht, in denen Schüler*innen eigenständig Aufgaben bearbeiten, sodass ich währenddessen nach und nach mit Einzelnen Gespräche führen kann."
+      "text": "Das ist von Bundesland zu Bundesland tatsächlich unterschiedlich. Wir haben vor ein paar Jahren exemplarisch sechs Lehrpläne aus nord-, süd-, west- und ostdeutschen Bundesländern im Vergleich analysiert. Wenn wir uns die unterschiedlichen Lehrpläne anschauen, dann finden wir unterschiedliche Hinweise auf den Umgang mit Leistungsbewertung."
     },
     {
       "id": 25,
-      "time": "00:21:46",
-      "seconds": 1306,
-      "speaker": "Lars Fischer",
-      "text": "Auf welcher Grundlage kann ich solche Rückmeldungen oder solches Feedback als Lehrkraft wirklich geben?"
+      "seconds": 764.87,
+      "time": "00:12:44",
+      "speaker": "Petra Guardiera",
+      "text": "In Summe heben die Lehrpläne schon darauf ab, dass der Heterogenität der Schüler*innen oder dem unterschiedlichen Leistungsvermögen der Schüler*innen Rechnung getragen werden soll, dass beispielsweise sehr stark auch auf individuelle Leistungen und individuellen Leistungsfortschritt Wert gelegt werden soll. Gleichwohl finden wir aber, wenn Lehrpläne in Zusatzmaterialien zum Beispiel Bewertungsvorschläge bereithalten, vermehrt solche Vorschläge, die auf die sportmotorische Leistung, auf messbare Ergebnisse abheben und die das Kriterium der Anstrengungsbereitschaft oder das Sozialverhalten quasi als Nebenkriterien behandeln und dazu keine konkreten Angaben machen, wie diese Leistungsbereiche konkret beurteilt werden sollen. Also wir finden einen gewissen Widerspruch: Auf der einen Seite sprechen Lehrpläne über eine kompetenzorientierte Leistungsbewertung, und wenn wir den Begriff der Kompetenzorientierung ernst nehmen, meinen wir damit nicht nur Wissen und Können, sondern auch gewisse Bereitschaften und Fähigkeiten, die Schüler*innen entwickeln sollen, die über die körperlich-motorischen Dimensionen des Sportunterrichts hinausgehen."
     },
     {
       "id": 26,
-      "time": "00:21:55",
-      "seconds": 1315,
+      "seconds": 847.0,
+      "time": "00:14:07",
       "speaker": "Petra Guardiera",
-      "text": "Solche Rückmeldungen kann ich natürlich nur auf einer fundierten Beobachtungsgrundlage geben. Die kann darin bestehen, dass ich Schüler*innen im Unterricht über einen längeren Zeitraum anhand bestimmter Kriterien immer wieder beobachte und diese Ergebnisse zugrunde lege. Sie kann aber auch darin bestehen, dass ich beispielsweise Portfolios, Lerntagebücher, Kann-Bücher oder Videopräsentationen einsetze. Sie dokumentieren einen bestimmten Zwischenstand. Ich kann sie immer wieder heranziehen und analysieren und mir so ein Bild von der Leistungsentwicklung meiner Schüler*innen machen. Diese Dokumentationen bilden eine gute Gesprächsgrundlage."
+      "text": "Das finden wir in allen Lehrplänen wieder, sodass also erstmal vielfältige Möglichkeiten der Leistungsbewertung geöffnet werden. Auf der anderen Seite finden wir dann aber Hinweise in den Bewertungsvorschlägen, die sehr stark auf die Bewertung der körperlich-motorischen Dimensionen fokussieren, sodass wir also quasi einen Bruch in den Lehrplaninstrumenten vorfinden."
     },
     {
       "id": 27,
-      "time": "00:22:42",
-      "seconds": 1362,
+      "seconds": 870.97,
+      "time": "00:14:30",
       "speaker": "Lars Fischer",
-      "text": "Jetzt habe ich so ein bisschen das Gefühl, dass wir uns von der Ziffernnote und der Leistungsbewertung entfernt haben und thematisch eher bei der Leistungsfeststellung angekommen sind. Habe ich das richtig mitbekommen?"
+      "text": "Jetzt haben wir schon ganz viel über die sportmotorische Dimension gesprochen. Du hast sie eben auch exemplarisch angesprochen, aber für mich vielleicht noch einmal zusammenfassend: Welche Dimensionen sollten denn laut fachdidaktischer Literatur konkret in die Sportnote einfließen?"
     },
     {
       "id": 28,
-      "time": "00:22:57",
-      "seconds": 1377,
+      "seconds": 887.17,
+      "time": "00:14:47",
       "speaker": "Petra Guardiera",
-      "text": "Genau. Wir sprechen jetzt über den grundlegenden Bereich der Diagnostik im Sportunterricht. Sie hat für die Leistungsbewertung einen hohen Stellenwert, aber natürlich auch für die individuelle Förderung der Schüler*innen. Leistungsbewertung ist mehr als die reine Vergabe von Ziffernoten. Sie umfasst auch die Begleitung der Schüler*innen während ihres Lernprozesses, um differenziertes Feedback geben, Entwicklungsmöglichkeiten aufzeigen und Unterricht sowie individuelle Fördermaßnahmen anpassen zu können. Wir sprechen also über diagnostische Kompetenzen von Lehrkräften. Damit sind die Fähigkeiten gemeint, die es Sportlehrkräften ermöglichen, Informationen über die Lernausgangslage und den Lernstand ihrer Schüler*innen zu sammeln: also erst einmal einen Lern- oder Leistungsstand zu erkennen, ihn zu deuten und einzuordnen und daraus unterrichtliche Maßnahmen abzuleiten. Das ist insofern auch eine Form der Bewertung eines Leistungsstandes, hat aber nicht unmittelbar mit der Vergabe von Ziffernoten zu tun. Es geht darum, sich ein differenziertes Bild davon zu machen, wo die Schüler*innen stehen, auch im Hinblick auf die erwarteten Leistungen beziehungsweise die Anforderungen, um ihren weiteren Entwicklungsprozess im Sportunterricht begleiten zu können."
+      "text": "Wenn wir in die fachdidaktische Literatur schauen, dann finden wir zum Beispiel eine Studie von Gehrmann und Kastrup, die fünf unterschiedliche Dimensionen aus der Literatur extrahiert haben, die wiederum als Bewertungsgrundlage herangezogen werden können. Zu diesen Dimensionen gehört die sportmotorische Leistung, die hattest du schon genannt. Daneben benennen sie die individuelle Entwicklung der Schüler*innen, die Leistungs- oder auch Anstrengungsbereitschaft, über die wir schon gesprochen haben, das Sozialverhalten und die kognitive Leistungsfähigkeit."
     },
     {
       "id": 29,
-      "time": "00:25:00",
-      "seconds": 1500,
+      "seconds": 918.0,
+      "time": "00:15:18",
       "speaker": "Lars Fischer",
-      "text": "Um individuelle Förderung zu gewährleisten, ist es also eigentlich unabdingbar, die Voraussetzungen von Schüler*innen zu erfassen, oder?"
+      "text": "Leistungsbeurteilung fließt ja dann oft im Endeffekt in Ziffernnoten. Das ist keine Besonderheit des Unterrichtsfachs Sport, sondern des Schulsystems generell. Welche Funktionen sollen die denn eigentlich erfüllen? Plakativ gefragt: Warum haben wir eigentlich Noten?"
     },
     {
       "id": 30,
-      "time": "00:25:09",
-      "seconds": 1509,
+      "seconds": 937.4,
+      "time": "00:15:37",
       "speaker": "Petra Guardiera",
-      "text": "Genau, das ist eine ganz elementare Komponente. Schüler*innen kommen mit sehr unterschiedlichen Eingangsvoraussetzungen in den Sportunterricht. Wenn wir die Kompetenzorientierung heranziehen, wird deutlich, dass Schüler*innen mit unterschiedlichen Fähigkeiten nur dann angemessen Kompetenzen erwerben können, wenn sie individuell gefördert werden. Das ist mir als Sportlehrkraft nur möglich, wenn ich ihre Ausgangslage differenziert erfassen kann. Ich muss also in der Lage sein, das sportunterrichtliche Handeln meiner Schüler*innen differenziert zu beobachten. Ich kann beispielsweise mit Beobachtungsbögen, Erwartungshorizonten oder Kompetenzrastern arbeiten und mir differenzierte Notizen machen. So erkenne ich, wo die Einzelnen stehen, und kann ableiten, wie der weitere unterrichtliche Weg und individuelle Fördermaßnahmen aussehen müssen, damit alle Schüler*innen Kompetenzen erwerben können. Diagnostische Kompetenzen sind auch deshalb hochrelevant, weil die PISA-Studien uns seit Jahren mit dem Befund konfrontieren, dass bestimmte Gruppen von Schüler*innen aufgrund ihrer Herkunft oder ihres sozioökonomischen Hintergrunds im Bildungssystem benachteiligt sind. Der Sportunterricht ist nicht Bestandteil der PISA-Studie. Gleichwohl können Schüler*innen auch im Sportunterricht benachteiligt sein, wenn sie beispielsweise die Unterrichtssprache nicht ausreichend beherrschen, Aufgabenstellungen nicht verstehen und deshalb nicht gleichberechtigt am Unterricht teilhaben können. Dann können sie Leistungen möglicherweise nicht so zeigen, wie sie es könnten, wenn sie die Aufgaben besser verstehen würden. Es ist wichtig, genau diese Voraussetzungen zu erkennen und zu überlegen, wie wir Schüler*innen überhaupt ermöglichen können, Leistungen zu zeigen und sich weiterzuentwickeln. Fehlende gleichberechtigte Teilhabe kann den Bildungserfolg und langfristig die Chancen auf gesellschaftliche Teilhabe einschränken. Das ist kein spezifischer Befund der PISA-Studie zum Sport; dieser wird dort nicht untersucht. Aber diese grundsätzlichen Zusammenhänge sind für den Sportunterricht relevant. Der Sportunterricht soll Schüler*innen nicht nur auf die Teilhabe am gesellschaftlichen Sport vorbereiten, sondern auch ihre Persönlichkeitsentwicklung umfassend fördern. Können sie nicht gleichberechtigt teilnehmen, können entsprechende Entwicklungsprozesse beeinträchtigt werden."
+      "text": "Ziffernnoten sind natürlich eine recht pragmatische Form der Rückmeldung. Ziffernnoten sollen Auskunft geben über die Qualität der Leistung, die Schüler*innen in bestimmten Unterrichtsfächern erbracht haben. Ziffernnoten haben aber auch ganz klar eine Allokations- und Selektionsfunktion. Das heißt, sie bestimmen letztlich darüber, welche Schulformen Schüler*innen nach der Grundschule beispielsweise besuchen dürfen, ob sie in die nächste Klasse versetzt werden, welchen Schulabschluss sie am Ende haben, welche Zugangsberechtigung sie dadurch haben, ob sie ein universitäres Studium aufnehmen dürfen oder vielleicht eben auch nicht und so weiter und so fort. Man muss aber auch sagen, dass die Aussagekraft von Ziffernnoten natürlich sehr stark eingeschränkt ist, weil sie sehr viele Informationen, die der Lehrkraft ursprünglich zugrunde lagen, in einer einzigen Ziffer verdichten und diese Informationen dann für Schüler*innen oder auch für Eltern ein Stück weit verloren gehen, weil sie diese nicht mehr aus den Ziffernnoten herauslesen können."
     },
     {
       "id": 31,
-      "time": "00:29:31",
-      "seconds": 1771,
+      "seconds": 1010.93,
+      "time": "00:16:50",
       "speaker": "Lars Fischer",
-      "text": "Das heißt, als gute Sportlehrkraft muss ich zunächst genauer hinschauen, wenn jemand beispielsweise [unklare Passage: vermutlich „an einem Basketballspiel“] nicht teilnimmt oder einen Korbleger nicht ausführt. Das heißt ja nicht zwangsläufig, dass die sportmotorischen Fähigkeiten fehlen. Als Lehrkraft bin ich angehalten, nach der Ursache zu fragen, statt vom beobachteten Verhalten vorschnell auf mangelnde Fähigkeiten zu schließen, oder?"
+      "text": "Da würde sich dann ja für mich auch die Frage stellen: Wie lernförderlich ist denn eigentlich eine Ziffernnote, wenn auf meinem Zeugnis nachher nur steht „Sport: gut“? Also welchen lernförderlichen Effekt kann so eine Ziffer eigentlich überhaupt erfüllen?"
     },
     {
       "id": 32,
-      "time": "00:29:53",
-      "seconds": 1793,
+      "seconds": 1027.0,
+      "time": "00:17:07",
       "speaker": "Petra Guardiera",
-      "text": "Genau, zumal es in solchen Spielsituationen neben Verständnisschwierigkeiten auch weitere Ursachen geben kann: beispielsweise eine geringe Affinität zu Sportspielen, Angst vor dem Ball, Zurückhaltung in der spielbezogenen Auseinandersetzung mit Mitschüler*innen oder schlicht tagesformabhängige Befindlichkeiten. Hier hilft der differenzierte und kontinuierliche Blick auf das Unterrichtsgeschehen, um solche Ursachen zu identifizieren und Unterstützungsmaßnahmen abzuleiten. Dabei ist eine vorübergehende akute Unlust sicherlich weniger relevant als Verständnisschwierigkeiten oder eine fehlende spielbezogene Handlungsfähigkeit."
+      "text": "Also der lernförderliche Effekt der Ziffernnote ist sicherlich eingeschränkt, deutlich lernförderlicher sind Feedbackgespräche der Lehrkräfte mit den Schüler*innen über die Note bzw. das Zustandekommen der Noten, was auch so ein bisschen nochmal ein anderes Licht auf den Prozess der Leistungsbewertung wirft, weil wir eben nicht nur sozusagen Leistungsergebnisse benoten und deren Wert in einer Ziffernnote abbilden, sondern weil wir auch den Leistungsprozess der Schüler*innen im Blick behalten und den Schüler*innen zwischendurch ein Feedback geben können zu ihrem Leistungsstand,"
     },
     {
       "id": 33,
-      "time": "00:30:43",
-      "seconds": 1843,
-      "speaker": "Lars Fischer",
-      "text": "Da greifen dann wieder die verschiedenen Instrumente, über die wir eben gesprochen haben, damit ich mich nicht nur auf meine Beobachtung verlassen muss, sondern vielleicht auch ein Kann-Buch zurate ziehe. Mich würde an der Stelle interessieren: Was verbirgt sich eigentlich hinter einem Kann-Buch?"
+      "seconds": 1064.7,
+      "time": "00:17:44",
+      "speaker": "Petra Guardiera",
+      "text": "Das können wir anhand bestimmter Kriterien tun, die wir vielleicht im Vorfeld auch mit den Schüler*innen besprochen haben, sodass wir immer mal wieder im Unterricht solche Feedbackgespräche führen können, von denen wir wissen – zum Beispiel aus der Forschung von Hattie –, dass sie auch einen entsprechenden Wert für den Lernerfolg der Schüler*innen haben. In diesen Gesprächen verständigen sich Schüler*innen und Sportlehrkräfte über den Leistungsstand des Schülers oder der Schülerin. Das gibt dem Schüler oder der Schülerin die Möglichkeit, vertiefte Einsichten in das eigene Leisten zu erhalten und darüber mitzubestimmen, wie der weitere Lernweg möglicherweise aussehen soll. Sie können besser verstehen, wo sie mit ihrer Leistung gerade stehen, inwiefern sie sich vielleicht weiterentwickelt haben, aber auch, wo sie im Vergleich zu den von ihnen erwarteten Leistungen oder zu ihren Mitschüler*innen stehen. Diese Feedbackgespräche haben deutlich mehr Aussagekraft und auch eine Diagnose- und Rückmeldefunktion, die eine Ziffernnote in dieser Form natürlich nicht erfüllen kann."
     },
     {
       "id": 34,
-      "time": "00:31:02",
-      "seconds": 1862,
-      "speaker": "Petra Guardiera",
-      "text": "Ein Kann-Buch ist eine Möglichkeit, die ich selbst in meinem Referendariat kennengelernt habe. Das sind im Prinzip Mitschriften von Schüler*innen, in die sie wie in ein Tagebuch eintragen: „Heute habe ich das und das gelernt. Ich kann jetzt das und das.“ Eine Stunde später wird eingetragen: „Heute haben wir das und das erarbeitet. Jetzt kann ich das und das.“ Oder auch: „Das und das kann ich noch nicht. Das muss ich noch üben.“ Je nach Alter der Schüler*innen ist dieses Kann-Buch vorstrukturiert, damit nicht zu viel geschrieben werden muss, weil das die Lust an solchen Büchern verleiden könnte. Man muss allerdings sagen, dass Kann-Bücher nur bis zu einer bestimmten Jahrgangsstufe eingesetzt werden können. Ältere Jugendliche haben irgendwann vielleicht kein Interesse mehr daran, ein Kann-Buch zu führen. Portfolios oder Sporthefter sind aber weiterhin gute Instrumente, um Lernprozesse abzubilden."
+      "seconds": 1142.83,
+      "time": "00:19:02",
+      "speaker": "Lars Fischer",
+      "text": "Wie könnten dann diese Feedbackgespräche aussehen? Ich denke, ich habe eine 7. Klasse, 30 Schüler*innen und ich will dann jedem lernförderliches Feedback geben. Das stelle ich mir sehr zeitintensiv vor. Wenn ich das in einer Stunde bei 30 Kindern machen möchte, welche Möglichkeiten habe ich denn da als Lehrkraft wirklich lernförderliches Feedback zu geben?"
     },
     {
       "id": 35,
-      "time": "00:32:14",
-      "seconds": 1934,
-      "speaker": "Lars Fischer",
-      "text": "Das ist ja eigentlich auch ein schönes Mittel zur Sprachförderung im Sportunterricht, so ein Kann-Buch."
+      "seconds": 1165.63,
+      "time": "00:19:25",
+      "speaker": "Petra Guardiera",
+      "text": "Also zum einen gibt der Sportunterricht es nicht her, 30 Schüler*innen in einer Stunde ein solches Feedback zu geben. Ich kann das Feedback vorentlasten, indem ich es den Schüler*innen beispielsweise schriftlich im Vorfeld zukommen lasse und dann auf der Grundlage dieser Informationen mit den Schüler*innen Gespräche führe. Ich kann das über einen längeren Zeitraum tun mit immer anderen Schüler*innen natürlich und kann dafür bestimmte Situationen im Unterricht nutzen, in denen die Schüler*innen mit der Bearbeitung bestimmter Aufgaben betraut sind, sodass ich mit einzelnen Schüler*innen nach und nach während dieser Zeit auch Gespräche führen kann."
     },
     {
       "id": 36,
-      "time": "00:32:20",
-      "seconds": 1940,
-      "speaker": "Petra Guardiera",
-      "text": "Ja, genau. In dem Moment, in dem Schüler*innen formulieren müssen oder gewisse Satzstrukturen bereits vorgegeben sind und die Kinder diese Sätze nur noch vervollständigen müssen, ist das auch ein sehr gutes Instrument zur Sprachförderung."
+      "seconds": 1206.6,
+      "time": "00:20:06",
+      "speaker": "Lars Fischer",
+      "text": "Auf welcher Grundlage kann ich denn solche Rückmeldungen oder Feedbacks dann wirklich geben als Lehrkraft?"
     },
     {
       "id": 37,
-      "time": "00:32:37",
-      "seconds": 1957,
-      "speaker": "Lars Fischer",
-      "text": "Was wissen wir denn aus der Forschung darüber, wie Lehrkräfte diagnostizieren?"
+      "seconds": 1214.9,
+      "time": "00:20:14",
+      "speaker": "Petra Guardiera",
+      "text": "Solche Rückmeldungen kann ich natürlich nur auf einer fundierten Beobachtungsgrundlage geben. Die kann darin bestehen, dass ich die Schüler*innen im Unterricht über einen längeren Zeitraum immer mal wieder anhand bestimmter Kriterien beobachte und diese Ergebnisse zugrunde lege. Sie kann aber auch darin bestehen, dass ich beispielsweise in meinem Sportunterricht Portfolios einsetze oder auch Lerntagebücher oder Kann-Hefte oder Videopräsentationen, die einen bestimmten Zwischenstand dokumentieren, die ich immer wieder heranziehen und analysieren kann. Auf dieser Grundlage kann ich mir ein Bild von der Leistungsentwicklung meiner Schüler*innen machen, sodass diese Dokumentationen eine ganz gute Gesprächsgrundlage bilden."
     },
     {
       "id": 38,
-      "time": "00:32:42",
-      "seconds": 1962,
-      "speaker": "Petra Guardiera",
-      "text": "Wenn wir über Formen der Diagnostik sprechen, müssen wir erst einmal drei unterschiedliche Formen unterscheiden: formelle, semiformelle und informelle Diagnostik. Wir wissen, dass Sportlehrkräfte in erster Linie informell diagnostizieren. Dazu gleich mehr. Die formelle Diagnostik meint validierte Verfahren, die wissenschaftlichen Gütekriterien entsprechen und eine sehr differenzierte Diagnostik ermöglichen. Das kennen wir beispielsweise aus den sogenannten AO-SF-Verfahren. Diese Form eignet sich für den alltäglichen Sportunterricht kaum, weil sie sehr aufwendig und umfangreich und damit wenig praktikabel ist. Dann kennen wir semiformelle Verfahren. Das sind Beobachtungsbögen, die Lehrkräfte beispielsweise gemeinsam mit dem Fachkollegium erstellen. Sie ermöglichen es, regelmäßig und systematisch Beobachtungsnotizen im Unterricht zu machen. Und wir kennen informelle Verfahren. Das sind eher ungeplante und unstrukturierte Beobachtungen im Unterricht. Wie gesagt, Sportlehrkräfte tendieren in erster Linie zu solchen informellen Verfahren. Das ist nachvollziehbar, wenn wir uns vor Augen führen, wie wenig Zeit für regelmäßige und strukturierte Beobachtungen bleibt. Wir wissen aber auch, dass solche informellen Verfahren fehleranfällig sind, weil uns möglicherweise nur die Dinge auffallen, auf die wir gerade unseren Blick richten. Deshalb wäre es sinnvoll, semiformelle Beobachtungsverfahren zu nutzen: Beobachtungsbögen, die am besten gemeinsam mit Kolleg*innen geplant worden sind und Bewertungskriterien bereithalten, über die man sich im Vorfeld verständigt hat. Solche Bögen weiten den Blick. Man kann sie regelmäßig für bestimmte Schüler*innengruppen oder Einzelne heranziehen und sich Notizen machen. Das sind die drei Verfahren, die wir unterscheiden."
+      "seconds": 1262.63,
+      "time": "00:21:02",
+      "speaker": "Lars Fischer",
+      "text": "Jetzt habe ich so ein bisschen das Gefühl, dass wir von der Ziffernnote und der Leistungsbewertung uns eigentlich ziemlich entfernt haben und wir jetzt eher, ich würde sagen, bei der Leistungsfeststellung thematisch unterwegs sind. Habe ich das so richtig mitbekommen?"
     },
     {
       "id": 39,
-      "time": "00:35:31",
-      "seconds": 2131,
+      "seconds": 1277.0,
+      "time": "00:21:17",
+      "speaker": "Petra Guardiera",
+      "text": "Genau, wir sprechen jetzt im Grunde über den ja sehr grundlegenden Bereich der Diagnostik im Sportunterricht, der im Kontext der Leistungsbewertung einen sehr hohen Stellenwert einnimmt, aber natürlich auch im Kontext der individuellen Förderung der Schüler*innen. Das heißt also sozusagen, dass Leistungsbewertung mehr ist als die reine Vergabe von Ziffernnoten, sondern auch die Begleitung der Schüler*innen während ihres Lernprozesses umfasst, um eben ein differenziertes Feedback geben zu können, um Schüler*innen dann auch aufzeigen zu können, in welche Richtung sie sich weiterentwickeln können, vielleicht auch müssen und um dann eben auch den Unterricht entsprechend anpassen zu können und individuelle Fördermaßnahmen ableiten zu können. Das heißt, wir sprechen jetzt also über diagnostische Kompetenzen von Lehrkräften und damit sind all die Fähigkeiten gemeint, die es den Sportlehrkräften ermöglichen, Informationen über die Lernausgangslage ihrer Schüler*innen zu sammeln, aber auch über den Lernstand ihrer Schüler*innen zu sammeln. Das heißt überhaupt erstmal, einen Leistungsstand oder einen Lernstand zu erkennen,"
+    },
+    {
+      "id": 40,
+      "seconds": 1353.73,
+      "time": "00:22:33",
+      "speaker": "Petra Guardiera",
+      "text": "diesen dann entsprechend auch zu deuten, also sprich: einzuordnen, um dann entsprechende unterrichtliche Maßnahmen ableiten zu können. Das heißt, dass dieser Prozess im Grunde auch eine Form der Bewertung eines Leistungsstandes darstellt, aber nichts mit der eigentlichen Vergabe von Ziffernnoten zu tun hat, sondern dass es hier darum geht, sich ein differenziertes Bild davon zu machen, wo die Schüler*innen stehen und wo sie dann eben auch beispielsweise mit Blick auf die erwartete Leistung oder die Anforderungen, die seitens der Lehrkraft gestellt werden, stehen, um ihren weiteren Entwicklungsprozess dann im Rahmen des Sportunterrichts auch moderieren und begleiten zu können."
+    },
+    {
+      "id": 41,
+      "seconds": 1400.53,
+      "time": "00:23:20",
+      "speaker": "Lars Fischer",
+      "text": "Um eine individuelle Förderung zu gewährleisten, ist es ja dann eigentlich unabdingbar, die Voraussetzungen von Schüler*innen zu erfassen, oder?"
+    },
+    {
+      "id": 42,
+      "seconds": 1407.33,
+      "time": "00:23:27",
+      "speaker": "Petra Guardiera",
+      "text": "Genau, das ist eine ganz elementare Komponente, weil wir nicht vergessen dürfen, dass die Schüler*innen ja eben mit sehr unterschiedlichen Eingangsvoraussetzungen in den Sportunterricht kommen. Und wenn wir jetzt beispielsweise nochmal die Kompetenzorientierung heranziehen, dann wird deutlich, dass es den Schüler*innen, die eben über sehr unterschiedliche Fähigkeiten verfügen, nur möglich sein kann, ein gewisses Maß an Kompetenzen zu erwerben, wenn sie individuell gefördert werden. Und diese individuelle Förderung ist mir als Sportlehrkraft natürlich nur möglich, wenn ich die Ausgangslage der Schüler*innen differenziert erfassen kann. Genau, das heißt, ich muss imstande sein, das sportunterrichtliche Handeln meiner Schüler*innen differenziert beobachten zu können. Das ist eine Grundlage. Ich muss also beispielsweise mit Beobachtungsbögen arbeiten oder mit Erwartungshorizonten oder Kompetenzrastern, um mir differenzierte Notizen machen zu können und auf dieser Grundlage zu erkennen, wo die einzelnen Schüler*innen stehen, um dann ableiten zu können, wie der weitere unterrichtliche Weg aussehen muss,"
+    },
+    {
+      "id": 43,
+      "seconds": 1485.13,
+      "time": "00:24:45",
+      "speaker": "Petra Guardiera",
+      "text": "wie vielleicht individuelle Fördermaßnahmen aussehen müssen, damit alle Schüler*innen ein gewisses Maß an Kompetenzen in meinem Sportunterricht erwerben können. Diagnostische Kompetenzen sind insofern auch hoch relevant,"
+    },
+    {
+      "id": 44,
+      "seconds": 1500.17,
+      "time": "00:25:00",
+      "speaker": "Petra Guardiera",
+      "text": "weil uns die PISA-Studie seit Jahren wiederholt damit konfrontiert, dass wir Gruppen von Schüler*innen haben, die bei uns sozusagen immer wieder durchs Raster fallen, weil sie aufgrund ihrer Herkunft oder auch ihres sozioökonomischen Hintergrunds als bildungsbenachteiligt gelten. Jetzt ist der Sportunterricht nicht Bestandteil der PISA-Studie, gleichwohl ist es aber so, dass Schüler*innen, die sozusagen schon benachteiligt in den Sportunterricht kommen, weil sie beispielsweise unsere Sprache nicht sprechen und Aufgabenstellungen nicht verstehen und infolgedessen nicht gleichberechtigt am Unterricht teilhaben können und infolgedessen auch Leistungen vielleicht nicht in der Form zeigen können, wie sie es könnten, wenn sie die Aufgabenstellung besser verstehen würden. Vor dem Hintergrund ist es ganz wichtig, genau diese Voraussetzungen zu erkennen, um zu überlegen, wie wir es diesen Schüler*innen überhaupt ermöglichen können, Leistungen zu zeigen. Das heißt also auch eine gewisse Leistungsentwicklung überhaupt erst mal zu ermöglichen."
+    },
+    {
+      "id": 45,
+      "seconds": 1573.0,
+      "time": "00:26:13",
+      "speaker": "Petra Guardiera",
+      "text": "Ja und insbesondere mit Blick auf benachteiligte Schüler*innen ist es relevant, weil die nicht gleichberechtigte Teilhabe am Unterricht letztlich auch zu geringerem Bildungserfolg führt und geringerer Bildungserfolg sich letztlich auch in der Konsequenz quasi niederschlägt, in einem geringeren schulischen Erfolg in Summe und damit vielleicht dann langfristig auch in geringeren Chancen auf gleichberechtigte Teilhabe an Gesellschaft beispielsweise. Dieser Prozess lässt sich für alle Unterrichtsfächer abbilden. Der Sportunterricht wird in der PISA-Studie nicht berücksichtigt. Gleichwohl gelten diese Zusammenhänge, die ich gerade versucht habe, deutlich zu machen, auch für den Sportunterricht."
+    },
+    {
+      "id": 46,
+      "seconds": 1622.0,
+      "time": "00:27:02",
+      "speaker": "Petra Guardiera",
+      "text": "Und der Sportunterricht hat ja nicht nur die Aufgabe sozusagen, Schüler*innen auf den Sport, wie er in unserer Gesellschaft repräsentiert ist, vorzubereiten, sondern er hat ja auch die Aufgabe, die Persönlichkeitsentwicklung der Schüler*innen umfassend und ganzheitlich voranzutreiben. Und wenn Schüler*innen letzten Endes nicht gleichberechtigt am Sportunterricht teilhaben können, weil sie entsprechende Voraussetzungen nicht mitbringen, dann bleibt dieser Entwicklungsprozess ein Stück weit vielleicht auf der Strecke. Also dann führt das nicht nur dazu, dass vielleicht Teilhabe an gesellschaftlichem Sport eingeschränkt ist, sondern dass vielleicht auch gewisse Prozesse der Persönlichkeitsentwicklung nicht so angesteuert werden können, wie vielleicht bei anderen Heranwachsenden."
+    },
+    {
+      "id": 47,
+      "seconds": 1670.0,
+      "time": "00:27:50",
+      "speaker": "Lars Fischer",
+      "text": "Das heißt, als gute Sportlehrkraft muss ich zunächst genauer hinschauen, wenn jemand beispielsweise [unklare Tonstelle; möglicherweise: „an einem Basketballspiel“] nicht teilnimmt oder einen Korbleger nicht ausführt. Das heißt ja nicht zwangsläufig, dass die sportmotorischen Fähigkeiten fehlen. Als Lehrkraft bin ich angehalten, nach der Ursache zu fragen, statt vom beobachteten Verhalten vorschnell auf mangelnde Fähigkeiten zu schließen, oder?"
+    },
+    {
+      "id": 48,
+      "seconds": 1691.3,
+      "time": "00:28:11",
+      "speaker": "Petra Guardiera",
+      "text": "Genau. Zumal es in solchen Spielsituationen neben Verständnisschwierigkeiten auch noch weitere Ursachen gibt, wie beispielsweise eine geringe Affinität zu Sportspielen möglicherweise oder auch die Angst vor dem Ball, vielleicht auch eine Zurückhaltung in der spielbezogenen Auseinandersetzung mit den Mitschüler*innen oder auch schlicht tagesformabhängige Befindlichkeiten. Hier hilft dann nur der differenzierte und kontinuierliche Blick auf das Unterrichtsgeschehen, um solche Ursachen identifizieren und letztlich auch entsprechende Unterstützungsmaßnahmen für die Schüler*innen ableiten zu können. Dabei stellt sich dann so etwas wie vorübergehende akute Unlust sicherlich als weniger relevant dar als beispielsweise die eben benannten Verständnisschwierigkeiten oder auch eine fehlende spielbezogene Handlungsfähigkeit."
+    },
+    {
+      "id": 49,
+      "seconds": 1741.9,
+      "time": "00:29:01",
+      "speaker": "Lars Fischer",
+      "text": "Dann würde ich auch denken, hier greifen wieder die verschiedenen Instrumente, über die wir eben gesprochen haben, damit ich mich nicht nur auf meine Beobachtung verlassen muss, sondern vielleicht auch ein Kann-Buch zurate ziehe. Mich würde an der Stelle interessieren: Was verbirgt sich eigentlich hinter einem Kann-Buch?"
+    },
+    {
+      "id": 50,
+      "seconds": 1760.67,
+      "time": "00:29:20",
+      "speaker": "Petra Guardiera",
+      "text": "Ein Kann-Buch ist eine Möglichkeit, die ich selbst damals in meinem Referendariat kennengelernt habe. Das sind im Prinzip Mitschriften von Schüler*innen, in die sie wie in ein Tagebuch eintragen. „Heute habe ich das und das gelernt. Ich kann jetzt das und das.“ Und eine Stunde später wird eingetragen, „Heute haben wir das und das erarbeitet, jetzt kann ich das und das.“ Oder wo auch eingetragen wird, „Das und das kann ich noch nicht, das muss ich noch üben.“ Je nach Alter der Schüler*innen ist dieses Kann-Buch natürlich vorstrukturiert, damit nicht zu viel geschrieben werden muss, weil das natürlich auch so ein bisschen die Lust an solchen Kann-Büchern verleidet. Und man muss auch sagen, dass solche Kann-Bücher oder auch Portfolios, muss man ehrlicherweise sagen, Portfolios nicht, aber dass solche Kann-Bücher nur bis zu einer bestimmten Jahrgangsstufe eingesetzt werden können. Also ältere Jugendliche beispielsweise haben jetzt irgendwann kein Interesse mehr daran, ein Kann-Buch zu führen, aber Portfolios oder Sporthefter beispielsweise sind natürlich auch ein gutes Instrument, um Lernprozesse abzubilden."
+    },
+    {
+      "id": 51,
+      "seconds": 1833.0,
+      "time": "00:30:33",
+      "speaker": "Lars Fischer",
+      "text": "Ist ja dann eigentlich auch ein schönes Mittel zur Sprachförderung im Sportunterricht, so ein Kann-Buch."
+    },
+    {
+      "id": 52,
+      "seconds": 1838.23,
+      "time": "00:30:38",
+      "speaker": "Petra Guardiera",
+      "text": "Ja, genau, richtig. Also das kommt noch obendrauf, in dem Moment, wo Schüler*innen formulieren müssen oder wo vielleicht auch gewisse Satzstrukturen schon vorgegeben sind und die Kinder diese Sätze nur noch vervollständigen müssen, ist das ein sehr gutes Instrument zur Sprachförderung, genau."
+    },
+    {
+      "id": 53,
+      "seconds": 1855.4,
+      "time": "00:30:55",
+      "speaker": "Lars Fischer",
+      "text": "Was wissen wir denn aus der Forschung, wie Lehrkräfte diagnostizieren?"
+    },
+    {
+      "id": 54,
+      "seconds": 1860.0,
+      "time": "00:31:00",
+      "speaker": "Petra Guardiera",
+      "text": "Wenn wir über Formen der Diagnostik sprechen, dann müssen wir vielleicht erst einmal drei unterschiedliche Formen unterscheiden: formelle, semiformelle und informelle Diagnostik. Wir wissen, dass Sportlehrkräfte in erster Linie informell diagnostizieren, dazu gleich mehr. Die formelle Diagnostik meint validierte Verfahren, die wissenschaftlichen Gütekriterien entsprechen und eine sehr differenzierte Diagnostik ermöglichen. Das kennen wir beispielsweise aus den sogenannten AO-SF-Verfahren."
+    },
+    {
+      "id": 55,
+      "seconds": 1898.57,
+      "time": "00:31:38",
+      "speaker": "Petra Guardiera",
+      "text": "Diese Form eignet sich für den alltäglichen Sportunterricht kaum, weil sie sehr aufwendig und umfangreich ist und für Sportlehrkräfte in der zur Verfügung stehenden Zeit wenig praktikabel ist. Dann kennen wir semiformelle Verfahren: Das sind Beobachtungsbögen, die vielleicht auch mit dem Fachkollegium gemeinsam erstellt werden und die Lehrkräften ermöglichen, regelmäßig und systematisch Beobachtungsnotizen im Unterricht zu machen. Und wir kennen informelle Verfahren: Das sind eher ungeplante und unstrukturierte Beobachtungen, die im Unterricht vorgenommen werden. Wir wissen – ich hatte es gerade schon vorweggenommen –, dass Sportlehrkräfte in erster Linie zu solchen informellen Verfahren tendieren. Das ist sicherlich nachvollziehbar, wenn wir uns vor Augen führen, wie wenig Zeit Lehrkräften für regelmäßige und strukturierte Beobachtungen im Unterricht bleibt, sodass eben vielfach ungeplant und spontan beobachtet wird. Wir wissen aber auch, dass solche informellen Verfahren sehr fehleranfällig sind, weil uns möglicherweise nur die Dinge auffallen, auf die wir gerade unseren Blick richten."
+    },
+    {
+      "id": 56,
+      "seconds": 1975.8,
+      "time": "00:32:55",
+      "speaker": "Petra Guardiera",
+      "text": "Sprich, es wäre sinnvoll, semiformelle Beobachtungsverfahren zu nutzen, also Beobachtungsbögen, die im Vorfeld, im besten Fall gemeinsam mit Kolleg*innen, geplant worden sind und die entsprechende Bewertungskriterien bereithalten, über die man sich vorher verständigt und in Ruhe nachgedacht hat. So stehen sie im Unterricht zur Verfügung und erweitern den Blick, wenn ich solche semiformellen Verfahren einsetze, die ich dann eben regelmäßig vielleicht immer wieder für eine bestimmte Schüler*innengruppe, für einzelne Schüler*innen heranziehe und mir dann da Notizen machen kann. Also das sind die drei Verfahren, die wir unterscheiden."
+    },
+    {
+      "id": 57,
+      "seconds": 2029.57,
+      "time": "00:33:49",
       "speaker": "Lars Fischer",
       "text": "Wissen wir denn etwas über Lehrkräfte, die besonders gut diagnostizieren?"
     },
     {
-      "id": 40,
-      "time": "00:35:37",
-      "seconds": 2137,
+      "id": 58,
+      "seconds": 2034.6,
+      "time": "00:33:54",
       "speaker": "Petra Guardiera",
-      "text": "Lehrkräfte, die besonders gut diagnostizieren, planen schon im Rahmen ihrer Unterrichtsplanung Zeit dafür ein. Sie überlegen sich im Vorfeld, in welcher Phase sie ausgewählte Schüler*innen beziehungsweise deren Bewegungsverhalten genauer in den Blick nehmen können. Das können Gruppenarbeitsphasen sein, in denen Schüler*innen eigenständig Aufgaben bearbeiten und die Lehrkraft Zeit für Beobachtungen hat. Das kann beispielsweise auch Stationsarbeit im Sportunterricht sein. Solche Phasen schaffen Freiräume, um das Bewegungsverhalten Einzelner zu beobachten und Notizen zu machen."
+      "text": "Lehrkräfte, die besonders gut diagnostizieren, planen Zeit für das Diagnostizieren im Rahmen ihrer Unterrichtsplanung ein. Das heißt, sie überlegen sich im Vorfeld, wann im Unterricht sich eine geeignete Phase ergibt, in der dann ausgewählte Schüler*innen etwas genauer oder das Bewegungsverhalten ausgewählter Schüler*innen etwas genauer in den Blick genommen werden kann. Das können vielleicht Gruppenarbeitsphasen sein, die Lehrkräfte eingeplant haben, in denen die Schüler*innen dann tatsächlich auch eigenständig mit bestimmten Aufgaben betraut sind, sodass der Lehrkraft in dem Moment Zeit bleibt für Beobachtung. Das kann die Arbeit an Stationen sein, im Sportunterricht beispielsweise, die eben solche Freiräume schafft für die Lehrkraft, sich mit der Beobachtung zu beschäftigen und eben dann auch Notizen zum Bewegungsverhalten der einzelnen Schüler*innen zu machen. Das sind solche Möglichkeiten, die sich im Unterricht bieten."
     },
     {
-      "id": 41,
-      "time": "00:36:40",
-      "seconds": 2200,
+      "id": 59,
+      "seconds": 2096.37,
+      "time": "00:34:56",
       "speaker": "Lars Fischer",
-      "text": "Bislang haben wir vor allem über die Rolle der Lehrkraft gesprochen. Welche Rolle können denn gegebenenfalls auch die Schüler*innen übernehmen?"
+      "text": "Bislang haben wir diesbezüglich in erster Linie über die Rolle der Lehrkraft gesprochen. Welche Rolle können denn gegebenenfalls auch die Schüler*innen spielen oder übernehmen?"
     },
     {
-      "id": 42,
-      "time": "00:36:49",
-      "seconds": 2209,
+      "id": 60,
+      "seconds": 2105.73,
+      "time": "00:35:05",
       "speaker": "Petra Guardiera",
-      "text": "Das ist eine wichtige Frage. Auch Schüler*innen können in den Beobachtungsprozess einbezogen werden, beispielsweise im Rahmen einer Selbstbeobachtung oder einer wechselseitigen Peer-Beobachtung. Das heißt, sie beobachten sich gegenseitig. Solche Prozesse verhelfen ihnen zu einem differenzierteren Blick auf das eigene Leisten, etwa das eigene Bewegungsverhalten, aber auch auf das der Mitschüler*innen. Zugleich eröffnet die Lehrkraft ihnen die Möglichkeit, sich an der Beurteilung eigener und fremder Leistungen zu beteiligen und darüber in den Dialog zu gehen. Die abschließende Benotung verbleibt natürlich bei der Lehrkraft. Es bieten sich aber Möglichkeiten der Partizipation durch die Schüler*innen."
+      "text": "Ja, das ist eine wichtige Frage. Auch Schüler*innen können in den Beobachtungsprozess einbezogen werden, und zwar beispielsweise entweder im Rahmen einer Selbstbeobachtung oder auch im Rahmen einer wechselseitigen Peer-Beobachtung. Das heißt, dass die Schüler*innen sich gegenseitig beobachten. Solche Prozesse verhelfen ihnen dann zum einen zu einem differenzierteren Blick auf das eigene Leisten, beispielsweise was ihr Bewegungsverhalten angeht, aber auch auf das ihrer Mitschüler*innen und zum anderen eröffnet die Lehrkraft durch solche Prozesse den Schüler*innen zugleich die Möglichkeit, sich an der Beurteilung ihrer eigenen Leistung oder auch der Leistung ihrer Mitschüler*innen zu beteiligen und darüber letztlich in den Dialog zu gehen. Die abschließende Aufgabe der Benotung verbleibt dabei natürlich bei der Lehrkraft. Hier bieten sich aber eben Möglichkeiten der Partizipation durch die Schüler*innen an."
     },
     {
-      "id": 43,
-      "time": "00:37:45",
-      "seconds": 2265,
+      "id": 61,
+      "seconds": 2161.17,
+      "time": "00:36:01",
       "speaker": "Lars Fischer",
-      "text": "Jetzt haben wir viel über Leistungsbewertung und Diagnostik gesprochen. Gibt es von deiner Seite noch etwas, das du Lehrkräften in diesem Kontext gerne mitgeben möchtest?"
+      "text": "Jetzt haben wir ganz viel über Leistungsbewertung, Diagnostik gesprochen. Gibt es von deiner Seite noch etwas, was du Lehrkräften in diesem Kontext gerne mitgeben möchtest?"
     },
     {
-      "id": 44,
-      "time": "00:37:55",
-      "seconds": 2275,
+      "id": 62,
+      "seconds": 2172.0,
+      "time": "00:36:12",
       "speaker": "Petra Guardiera",
-      "text": "Ich glaube, es ist ganz wichtig, dass Lehrkräfte ihr eigenes Leistungsverständnis reflektieren. Je nachdem, wie ich selbst im Sport sozialisiert bin – und bei Sportlehrkräften ist es in der Regel so, dass sie selbst Sport betrieben haben –, bringe ich bestimmte Leistungsvorstellungen mit in den Sportunterricht. Ich muss mir als Sportlehrkraft vor Augen führen, was ich eigentlich unter Leistung verstehe und was ich als Leistung anerkenne. Dafür ist es wichtig, dafür sensibilisiert zu sein, dass nicht nur Leistungsergebnisse eine Leistung darstellen, sondern auch Leistungsprozesse, also beispielsweise das Üben – das, was wir als Leisten bezeichnen. Auch das sollte anerkannt werden, weil wir uns in einem pädagogischen Kontext bewegen und den Auftrag der Leistungserziehung haben. Es muss darum gehen, Schüler*innen aufzuzeigen, dass es sich lohnt, etwas zu leisten. Ein weiterer wichtiger Punkt ist, die eigenen diagnostischen Fähigkeiten zu überprüfen. Das heißt zu reflektieren: Wie nehme ich das Leistungshandeln meiner Schüler*innen im Unterricht wahr? Mache ich das strukturiert und systematisch oder eher spontan und unstrukturiert? Welche Informationen sammle ich? Wie dokumentiere ich sie? Wofür nutze ich sie? Nur, um am Ende eine Note geben zu können, oder auch für Feedbackgespräche mit meinen Schüler*innen? Das ist wichtig, um mit ihnen über den Leistungsstand und individuelle Entwicklungsmöglichkeiten zu sprechen und ihnen vertiefte Einsichten in ihr eigenes Leisten zu ermöglichen. Nutze ich die Informationen auch, um individuelle Lernwege abzuleiten und den Unterricht anzupassen? Dann ist es auch wichtig, sich angesichts der heterogenen Ausgangsbedingungen vor Augen zu führen, dass Schüler*innen, die bildungsbenachteiligt sind, überhaupt erst Leistungen ermöglicht werden müssen. Denn erst dann, wenn ich Leistungen ermögliche, kann ich auch Leistungen bewerten. Und das scheint – zumindest wenn wir an die PISA-Befunde zum Bildungserfolg denken – immer wieder in den Hintergrund zu geraten. Schüler*innen, die Leistungen gar nicht erst erbringen können, sind entsprechend benachteiligt. Und es gibt noch einen letzten Punkt, den wir zu Beginn schon angesprochen haben: Das Kriterium Leistungsentwicklung kann ich für leistungsstarke Schüler*innen, zumindest mit Blick auf die sportmotorische Entwicklung, weniger gut heranziehen. Bei Schüler*innen mit ungünstigeren Eingangsvoraussetzungen kann ich es stärker berücksichtigen. Das führt zu einer Ungleichbehandlung, auch wenn sie von Schüler*innen kaum moniert wird. Dieses Ungleichgewicht muss ich im Sportunterricht aushalten. Ich muss damit umgehen können, dass ich im Einzelfall mit unterschiedlichen Maßstäben messe, und das auch begründen können. Das macht meines Erachtens eine pädagogisch legitimierte Leistungsbeurteilung aus."
+      "text": "Ja, ich glaube, dass es ganz wichtig ist, dass Lehrkräfte ihr eigenes Leistungsverständnis reflektieren. Denn je nachdem, wie ich selbst im Sport sozialisiert bin – und bei Sportlehrkräften ist es in der Regel so, dass sie selbst aus dem Sport kommen und selbst einen bestimmten Sport betrieben haben –, bringen sie bestimmte Leistungsvorstellungen in den Sportunterricht mit. Das heißt, es muss meine Aufgabe als Sportlehrkraft sein, mir vor Augen zu führen, was ich denn eigentlich unter einer Leistung verstehe bzw. was ich eigentlich als eine Leistung anerkenne. Und dafür ist es ganz wichtig, dass ich zum Beispiel dafür sensibilisiert bin, dass nicht nur Leistungsergebnisse im Sportunterricht eine Leistung darstellen, sondern dass auch Leistungsprozesse, also das Üben beispielsweise,"
     },
     {
-      "id": 45,
-      "time": "00:42:05",
-      "seconds": 2525,
+      "id": 63,
+      "seconds": 2223.6,
+      "time": "00:37:03",
+      "speaker": "Petra Guardiera",
+      "text": "das, was wir als Leisten bezeichnen, dass auch das eine Leistung darstellt, die auch als solche anerkannt werden sollte, weil wir uns eben in einem pädagogischen Kontext bewegen und weil wir den Auftrag der Leistungserziehung haben. Und weil es darum gehen muss, Schüler*innen aufzuzeigen, dass es sich lohnt, etwas zu leisten. Das wäre so ein Punkt, den ich Sportlehrkräften gerne mitgeben würde, der mir ganz wichtig scheint. Ein weiterer Punkt, den ich für wichtig erachte, ist die eigenen diagnostischen Fähigkeiten zu überprüfen. Das heißt tatsächlich zu reflektieren, wie nehme ich denn das Leistungshandeln meiner Schüler*innen im Unterricht wahr?"
+    },
+    {
+      "id": 64,
+      "seconds": 2267.97,
+      "time": "00:37:47",
+      "speaker": "Petra Guardiera",
+      "text": "Mache ich das strukturiert und systematisch oder mache ich das eher spontan und unstrukturiert? Welche Informationen sammle ich? Wie dokumentiere ich diese Informationen? Wofür zieh ich diese Informationen heran? Nutze ich sie nur in Anführungsstrichen, um am Ende eine Note geben zu können? Oder nutze ich sie auch für Feedbackgespräche mit meinen Schüler*innen? Das ist ein ganz wichtiger Aspekt, um eben mit den Schüler*innen gemeinsam über den jeweiligen Leistungsstand zu sprechen, über individuelle Entwicklungsmöglichkeiten sprechen zu können und dem Schüler somit auch eine vertiefte Einsicht in das eigene Leisten zu ermöglichen. Und beispielsweise inwiefern nutze ich diese Informationen auch, um individuelle Lernwege für meine Schüler*innen abzuleiten und den Unterricht an den entsprechenden Stellen anzupassen. Dann, glaube ich, ist es auch ein wichtiger Punkt, sich vor Augen zu führen, dass es angesichts der heterogenen Ausgangsbedingungen der Schüler*innen wichtig ist, Leistungen für Schüler*innen, die sozusagen bildungsbenachteiligt sind, überhaupt erstmal zu ermöglichen. Denn erst dann, wenn ich Leistungen ermögliche, kann ich auch Leistungen bewerten und das, so zeigen es zumindest unsere PISA-Ergebnisse, scheint immer mal wieder auch in den Hintergrund zu geraten."
+    },
+    {
+      "id": 65,
+      "seconds": 2350.17,
+      "time": "00:39:10",
+      "speaker": "Petra Guardiera",
+      "text": "Schüler*innen, die Leistungen gar nicht erst erbringen können, sind da entsprechend benachteiligt. Wie ich das vorhin schon mal versucht habe, deutlich zu machen. Und dann gibt es aber noch einen letzten Punkt, der mir auch wichtig scheint. Den haben wir ganz zu Beginn schon einmal angesprochen. Das Kriterium der Leistungsentwicklung kann ich für leistungsstarke Schüler*innen weniger gut heranziehen, zumindest was sportmotorische Leistungsentwicklungen angeht, während ich das für Schüler*innen, die mit ungünstigeren Eingangsvoraussetzungen in den Sportunterricht kommen, deutlich stärker heranziehen kann. Das führt zu einer Ungleichbehandlung, auch wenn das seitens der Schüler*innen so gut wie gar nicht moniert wird. Aber das ist natürlich ein Ungleichgewicht, das ich im Sportunterricht aushalten muss. Das heißt, ich muss damit umgehen können, dass ich möglicherweise im Einzelfall mit anderen Maßstäben messe als bei anderen Schüler*innen. Das muss ich im Einzelfall begründen können. Und das macht für meine Begriffe aber auch eine pädagogisch legitimierte Leistungsbeurteilung aus."
+    },
+    {
+      "id": 66,
+      "seconds": 2421.93,
+      "time": "00:40:21",
       "speaker": "Lars Fischer",
-      "text": "Das ist doch ein schönes Schlusswort. Vielen Dank, Petra, dass du heute bei uns im Podcast Sportsachen zu Gast warst. Wenn euch die Folge gefallen hat, lasst doch bitte ein Like da. Vielen Dank fürs Zuhören."
+      "text": "Das ist doch ein schönes Schlusswort. Vielen Dank dir, Petra, dass du heute bei uns im Podcast Sportsachen zu Gast warst. Wenn euch die Folge gefallen hat, lasst doch bitte ein Like da. Vielen Dank fürs Zuhören."
     },
     {
-      "id": 46,
-      "time": "00:42:17",
-      "seconds": 2537,
+      "id": 67,
+      "seconds": 2433.13,
+      "time": "00:40:33",
       "speaker": "Petra Guardiera",
       "text": "Vielen Dank auch an euch."
     }

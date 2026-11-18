@@ -74,7 +74,7 @@
   "notes": [
     {
       "id": "benotung",
-      "turn": 2,
+      "turn": 4,
       "title": "Was wissen wir über Sportnoten?",
       "types": [
         "Literatur"
@@ -83,11 +83,13 @@
       "refs": [
         "gehrmann",
         "schittkowski"
-      ]
+      ],
+      "seconds": 59.73,
+      "time": "00:59"
     },
     {
       "id": "gerechtigkeit",
-      "turn": 8,
+      "turn": 12,
       "title": "Fairness und unterschiedliche Voraussetzungen",
       "types": [
         "Literatur",
@@ -97,11 +99,13 @@
       "refs": [
         "schittkowski"
       ],
-      "tip": "Reflexionsfrage: Wann sind gleiche Messwerte hilfreich – und wann verdecken sie unterschiedliche Lernvoraussetzungen?"
+      "tip": "Reflexionsfrage: Wann sind gleiche Messwerte hilfreich – und wann verdecken sie unterschiedliche Lernvoraussetzungen?",
+      "seconds": 345.43,
+      "time": "05:45"
     },
     {
       "id": "leisten",
-      "turn": 10,
+      "turn": 16,
       "title": "Leistung als Ergebnis – Leisten als Prozess",
       "types": [
         "Literatur",
@@ -111,21 +115,25 @@
       "refs": [
         "guardiera"
       ],
-      "tip": "Kleine Transferfrage: Woran würdest du im Weitsprung über mehrere Stunden den Lernprozess erkennen – zusätzlich zur erreichten Weite?"
+      "tip": "Kleine Transferfrage: Woran würdest du im Weitsprung über mehrere Stunden den Lernprozess erkennen – zusätzlich zur erreichten Weite?",
+      "seconds": 464.57,
+      "time": "07:44"
     },
     {
       "id": "fallbeispiel",
-      "turn": 13,
+      "turn": 19,
       "title": "Fallbeispiel: zwei unterschiedliche Lernwege",
       "types": [
         "Praxis"
       ],
       "lead": "Zwei fiktive Lernende üben Weitsprung: Eine Person erzielt von Beginn an hohe Weiten, eine andere verbessert ihre Technik deutlich. Welche Kriterien wären vorab für beide transparent?",
-      "tip": "Notiere zuerst zwei überprüfbare Kriterien. Welche Leistungen außerhalb der Sprungweite sind für die konkrete Lernaufgabe relevant? Keine pauschale „richtige Note“ vorgeben."
+      "tip": "Notiere zuerst zwei überprüfbare Kriterien. Welche Leistungen außerhalb der Sprungweite sind für die konkrete Lernaufgabe relevant? Keine pauschale „richtige Note“ vorgeben.",
+      "seconds": 570.7,
+      "time": "09:30"
     },
     {
       "id": "lehrplan",
-      "turn": 16,
+      "turn": 24,
       "title": "Lehrpläne und Leistungskonzept",
       "types": [
         "Literatur"
@@ -134,11 +142,13 @@
       "refs": [
         "fischer",
         "nrw"
-      ]
+      ],
+      "seconds": 741.93,
+      "time": "12:21"
     },
     {
       "id": "dimensionen",
-      "turn": 18,
+      "turn": 28,
       "title": "Fünf Dimensionen – Kriterienmatrix",
       "types": [
         "Literatur",
@@ -150,11 +160,13 @@
       ],
       "files": [
         "05-bewertungsdimensionen"
-      ]
+      ],
+      "seconds": 887.17,
+      "time": "14:47"
     },
     {
       "id": "feedback",
-      "turn": 22,
+      "turn": 32,
       "title": "Lernförderliches Feedback konkretisieren",
       "types": [
         "Literatur",
@@ -166,11 +178,13 @@
       ],
       "files": [
         "03-feedbackgespraech"
-      ]
+      ],
+      "seconds": 1027.0,
+      "time": "17:07"
     },
     {
       "id": "beobachten",
-      "turn": 26,
+      "turn": 37,
       "title": "Beobachtungen systematisch dokumentieren",
       "types": [
         "Literatur",
@@ -182,21 +196,25 @@
       ],
       "files": [
         "02-beobachtungsbogen"
-      ]
+      ],
+      "seconds": 1214.9,
+      "time": "20:14"
     },
     {
       "id": "teilhabe",
-      "turn": 32,
+      "turn": 47,
       "title": "Nichtteilnahme nicht vorschnell deuten",
       "types": [
         "Praxis"
       ],
       "lead": "Wenn eine Bewegung nicht ausgeführt wird, kann das verschiedene Ursachen haben. Eine einzelne Beobachtung reicht nicht für ein Urteil.",
-      "tip": "Mögliche Rückfragen: Wurde die Aufgabe verstanden? Bestehen Unsicherheiten, Angst oder Barrieren? Was könnte die Teilnahme erleichtern?"
+      "tip": "Mögliche Rückfragen: Wurde die Aufgabe verstanden? Bestehen Unsicherheiten, Angst oder Barrieren? Was könnte die Teilnahme erleichtern?",
+      "seconds": 1670.0,
+      "time": "27:50"
     },
     {
       "id": "kannbuch",
-      "turn": 34,
+      "turn": 50,
       "title": "Kann-Buch: Lernfortschritte festhalten",
       "types": [
         "Material",
@@ -210,11 +228,13 @@
         "01-kann-buch",
         "01b-kann-buch-sprachsensibel"
       ],
-      "tip": "Am Ende der Stunde zwei Minuten einplanen: „Das kann ich schon … / Das möchte ich weiter üben …“. Die Einträge dienen als Gesprächsgrundlage, nicht als automatische Note."
+      "tip": "Am Ende der Stunde zwei Minuten einplanen: „Das kann ich schon … / Das möchte ich weiter üben …“. Die Einträge dienen als Gesprächsgrundlage, nicht als automatische Note.",
+      "seconds": 1760.67,
+      "time": "29:20"
     },
     {
       "id": "sprachsensibel",
-      "turn": 36,
+      "turn": 52,
       "title": "Sprache im Kann-Buch unterstützen",
       "types": [
         "Literatur",
@@ -224,11 +244,13 @@
       "refs": [
         "kehm"
       ],
-      "tip": "Alternativ mündlich antworten oder die Reflexion durch Zeichnungen ergänzen. Sprachliche Ausdrucksfähigkeit nicht mit sportlicher Leistung gleichsetzen."
+      "tip": "Alternativ mündlich antworten oder die Reflexion durch Zeichnungen ergänzen. Sprachliche Ausdrucksfähigkeit nicht mit sportlicher Leistung gleichsetzen.",
+      "seconds": 1838.23,
+      "time": "30:38"
     },
     {
       "id": "diagnoseformen",
-      "turn": 38,
+      "turn": 54,
       "title": "Informell, semiformell oder formell?",
       "types": [
         "Literatur",
@@ -238,11 +260,13 @@
       "refs": [
         "ferrari"
       ],
-      "tip": "Starte klein: Beobachte in einer Stationsphase zwei vorher festgelegte Merkmale einer konkreten Bewegungsaufgabe."
+      "tip": "Starte klein: Beobachte in einer Stationsphase zwei vorher festgelegte Merkmale einer konkreten Bewegungsaufgabe.",
+      "seconds": 1860.0,
+      "time": "31:00"
     },
     {
       "id": "peer",
-      "turn": 42,
+      "turn": 60,
       "title": "Peer-Beobachtung mit klaren Kriterien",
       "types": [
         "Literatur",
@@ -255,17 +279,21 @@
       ],
       "files": [
         "04-peer-beobachtung"
-      ]
+      ],
+      "seconds": 2105.73,
+      "time": "35:05"
     },
     {
       "id": "reflexion",
-      "turn": 44,
+      "turn": 62,
       "title": "Reflexionsfragen für die Fachschaft",
       "types": [
         "Praxis"
       ],
       "lead": "Als Abschluss einer Fachkonferenz oder persönlichen Weiterarbeit geeignet.",
-      "tip": "Was erkenne ich als Leistung an? Wie beobachte ich systematisch? Welche Informationen nutze ich für Feedback statt nur für eine abschließende Note?"
+      "tip": "Was erkenne ich als Leistung an? Wie beobachte ich systematisch? Welche Informationen nutze ich für Feedback statt nur für eine abschließende Note?",
+      "seconds": 2172.0,
+      "time": "36:12"
     }
   ]
 }
